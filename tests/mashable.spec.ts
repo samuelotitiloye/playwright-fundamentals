@@ -15,14 +15,13 @@ test('Mashable blog functionality test', async ({ page }) => {
   await searchInput.press('Enter');
 
   // Wait for search results and verify content
-  await page.waitForLoadState('networkidle');
-  await expect(page.locator('h1, h2, .article-title')).toContainText(/tech/i);
+  await page.waitForLoadState('domcontentloaded');
+  await expect(page.locator('h1, h2, .article-title').first()).toContainText(/tech/i, { timeout: 15000 });
 
   // Click a tag to filter posts
   await page.getByRole('link', { name: 'More Tech' }).click();
 
   // Verify posts are filtered
-  await page.waitForLoadState('networkidle');
-  const posts = page.locator('.article, .post, .card');
-  //await expect(posts).toHaveCountGreaterThan(0);
+  await page.waitForLoadState('domcontentloaded');
+  await expect(page.locator('.article, .post, .card').first()).toBeVisible({ timeout: 15000 });
 });
