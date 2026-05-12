@@ -1,10 +1,10 @@
 import { test as base, expect } from '@playwright/test';
 /**
-* Provides a function to check for broken images by examining src
-* attributes, HTTP status codes, and image content validity.
+* Provides a function to check for broken images by examining whether the
+* browser successfully rendered each image (naturalWidth > 0).
 */
 type ImageFixture = { imageValidator: () => Promise<void>}
-export const test = base.extend<ImageFixture>({ 
+export const test = base.extend<ImageFixture>({
     imageValidator: async ({ page }, use) => {
         const validateImages = async () => {
             const allImages = await page.locator('img').all();
@@ -18,30 +18,17 @@ export const test = base.extend<ImageFixture>({
                     });
                     continue;
                 }
-                const asboluteSrc = new URL(src, page.url()).href;
+                const absoluteSrc = new URL(src, page.url()).href;
 
-                try {
-                    const response = await page.request.get(asboluteSrc, {
-                        headers: { 'Referer': page.url() },
-                    });
-                    if (!response.ok()) {
-                        brokenImages.push({
-                            src: asboluteSrc,
-                            status: response.status()
-                        });
-                    } else {
-                        const isCorrupted = await img.evaluate(image => (image as HTMLImageElement).naturalWidth === 0);
-                        if(isCorrupted) {
-                            brokenImages.push({
-                                src: asboluteSrc,
-                                status: 'OK but corrupted (naturalWidth is 0)'
-                            });
-                        }
-                    }
-                } catch (error) {
+                // Use the browser's own load result — naturalWidth === 0 means
+                // the image failed to render regardless of the reason (auth, CORS, etc.)
+                const isLoaded = await img.evaluate(
+                    (image) => (image as HTMLImageElement).naturalWidth > 0
+                );
+                if (!isLoaded) {
                     brokenImages.push({
-                        src: asboluteSrc,
-                        status: `Error: ${(error as Error).message}`
+                        src: absoluteSrc,
+                        status: 'Failed to load (naturalWidth is 0)'
                     });
                 }
             }
