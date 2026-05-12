@@ -1,0 +1,1047 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - button "Menu" [ref=e5] [cursor=pointer]:
+        - img [ref=e6]
+      - link "Home" [ref=e8] [cursor=pointer]:
+        - /url: https://mashable.com
+        - img [ref=e10]
+      - generic [ref=e47] [cursor=pointer]:
+        - button "Search" [ref=e48]:
+          - img [ref=e49]
+        - generic [ref=e51]: Search
+  - generic [ref=e52]:
+    - generic [ref=e53]:
+      - link "An illustration depicting a large, glowing AI chat box over a row of student desks and school buses." [ref=e54] [cursor=pointer]:
+        - /url: /article/ai-k-12-classrooms-ban-debate
+        - img "An illustration depicting a large, glowing AI chat box over a row of student desks and school buses." [ref=e56]
+      - link "Safe choice or miscalculation? The fierce battle over AI in schools" [ref=e59] [cursor=pointer]:
+        - /url: /article/ai-k-12-classrooms-ban-debate
+        - generic [ref=e60]: Safe choice or miscalculation?
+        - generic [ref=e61]: The fierce battle over AI in schools
+    - generic [ref=e63]:
+      - link "embarrassing recall The wheels are coming off the Cybertruck. That's not just a metaphor." [ref=e65] [cursor=pointer]:
+        - /url: /article/cybertruck-wheels-off
+        - generic [ref=e66]: embarrassing recall
+        - generic [ref=e67]: The wheels are coming off the Cybertruck. That's not just a metaphor.
+      - separator [ref=e68]
+      - 'link "Power to the people The Mashable 101 Fan Fave: Vote for your favorite creator" [ref=e70] [cursor=pointer]':
+        - /url: https://survey.alchemer.com/s3/8814318/108301686ac0
+        - generic [ref=e71]: Power to the people
+        - generic [ref=e72]: "The Mashable 101 Fan Fave: Vote for your favorite creator"
+      - separator [ref=e73]
+      - link "extremely 'x-files' coded 5 times NASA astronauts pop up in Trump's newly released UFO files" [ref=e75] [cursor=pointer]:
+        - /url: /article/department-of-war-ufo-files-nasa-astronauts-reports-pentagon
+        - generic [ref=e76]: extremely 'x-files' coded
+        - generic [ref=e77]: 5 times NASA astronauts pop up in Trump's newly released UFO files
+  - generic [ref=e79]: ADVERTISEMENT
+  - generic [ref=e80]:
+    - generic [ref=e82]:
+      - heading "Trending" [level=2] [ref=e83]
+      - generic [ref=e84]:
+        - 'link "Instructure Canvas hack update: Breach involved a specific teacher account type and interrupted finals" [ref=e85] [cursor=pointer]':
+          - /url: /article/instructure-canvas-hack-data-breach-shinyhunters-school-finals
+        - separator [ref=e86]
+        - link "The 11 best wireless earbuds we've ever tested" [ref=e87] [cursor=pointer]:
+          - /url: /roundup/best-wireless-earbuds-tested
+        - separator [ref=e88]
+        - 'link "Apple AI lawsuit settled: Every iPhone included in the $250 million settlement" [ref=e89] [cursor=pointer]':
+          - /url: /article/apple-class-action-settlement-iphone-models
+        - separator [ref=e90]
+        - 'link "Google Fitbit Air: 6 unique features that could tempt us to switch" [ref=e91] [cursor=pointer]':
+          - /url: /article/google-fitbit-air-top-features
+    - generic [ref=e93]:
+      - heading "Tech" [level=2] [ref=e94]
+      - generic [ref=e95]:
+        - link [ref=e96] [cursor=pointer]:
+          - /url: /article/readers-choice-audio-survey-sweepstakes
+          - img [ref=e97]
+        - link "Headphones" [ref=e98] [cursor=pointer]:
+          - /url: /category/headphones
+        - 'link "Ending soon: Rate your favorite audio brands for a chance to win a $250 Amazon gift card" [ref=e99] [cursor=pointer]':
+          - /url: /article/readers-choice-audio-survey-sweepstakes
+        - separator [ref=e100]
+        - link "We don't need content cops on social media. We need better design." [ref=e101] [cursor=pointer]:
+          - /url: /article/no-content-cops-better-design-op-ed
+        - separator [ref=e102]
+        - 'link "iOS 26.5 is here: How to get it, top new features" [ref=e103] [cursor=pointer]':
+          - /url: /article/apple-ios-26-5-rolls-out-how-to-update-new-features
+        - separator [ref=e104]
+        - link "Scammers are selling counterfeit DDR5 RAM featuring plastic chips" [ref=e105] [cursor=pointer]:
+          - /url: /article/scammers-selling-counterfeit-ddr5-ram-featuring-fiberglass-plastic
+        - link "More Tech" [ref=e106] [cursor=pointer]:
+          - /url: /tech
+          - text: More Tech
+          - img [ref=e107]
+    - generic [ref=e109]:
+      - heading "Entertainment" [level=2] [ref=e110]
+      - generic [ref=e111]:
+        - link [ref=e112] [cursor=pointer]:
+          - /url: /video/blair-underwood-say-more
+          - generic [ref=e113]:
+            - img [ref=e114]
+            - img [ref=e116]
+        - link "Movies" [ref=e117] [cursor=pointer]:
+          - /url: /category/movies
+        - link "Blair Underwood on honoring his mother, creating a legacy, and how he feels about AI" [ref=e118] [cursor=pointer]:
+          - /url: /video/blair-underwood-say-more
+        - separator [ref=e119]
+        - link "How Sydney Sweeney surprised Trisha Paytas during her 'Euphoria' cameo" [ref=e120] [cursor=pointer]:
+          - /url: /article/euphoria-trisha-paytas-sydney-sweeney-euphoria
+        - separator [ref=e121]
+        - link "When is Stephen Colbert's last show? How to watch the end of 'The Late Show'." [ref=e122] [cursor=pointer]:
+          - /url: /article/stephen-colbert-last-late-show-date-how-to-watch
+        - separator [ref=e123]
+        - 'link "''Directive 8020'' review: A compelling space horror that''s more fun to watch than play" [ref=e124] [cursor=pointer]':
+          - /url: /review/directive-8020-review-ps5
+        - link "More Entertainment" [ref=e125] [cursor=pointer]:
+          - /url: /entertainment
+          - text: More Entertainment
+          - img [ref=e126]
+  - generic [ref=e129]:
+    - generic [ref=e130]:
+      - heading "Creator Hub" [level=2] [ref=e131]
+      - link "More Creator Hub" [ref=e132] [cursor=pointer]:
+        - /url: https://mashable.com/category/creators
+        - text: More Creator Hub
+        - img [ref=e133]
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - 'link "The Mashable 101: The creators shaping the internet in 2025" [ref=e137] [cursor=pointer]':
+          - /url: /article/the-mashable-101-page
+          - 'img "The Mashable 101: The creators shaping the internet in 2025" [ref=e138]'
+        - link "Digital Culture" [ref=e139] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - 'link "The Mashable 101: The creators shaping the internet in 2025" [ref=e140] [cursor=pointer]':
+          - /url: /article/the-mashable-101-page
+      - generic [ref=e141]:
+        - link "The Mafia Nanny season 3 first look" [ref=e142] [cursor=pointer]:
+          - /url: /article/the-mafia-nanny-season-3-violet-matter-interview
+          - img "The Mafia Nanny season 3 first look" [ref=e143]
+        - link "Digital Culture" [ref=e144] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "'The Mafia Nanny' writer Violet Matter on slow-burn romance, fandom, and season 3" [ref=e145] [cursor=pointer]:
+          - /url: /article/the-mafia-nanny-season-3-violet-matter-interview
+      - generic [ref=e146]:
+        - link "Kelsey Impicciche holding a book" [ref=e147] [cursor=pointer]:
+          - /url: /article/kelsey-impicciche-creator-interview
+          - img "Kelsey Impicciche holding a book" [ref=e148]
+        - link "Digital Culture" [ref=e149] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "Kelsey Impicciche turned a viral 'Sims' video into 1 million YouTube subscribers" [ref=e150] [cursor=pointer]:
+          - /url: /article/kelsey-impicciche-creator-interview
+      - generic [ref=e151]:
+        - link "A person typing on a computer surrounded by filming equipment" [ref=e152] [cursor=pointer]:
+          - /url: /article/booktok-authors-content-creators
+          - img "A person typing on a computer surrounded by filming equipment" [ref=e153]
+        - link "Digital Culture" [ref=e154] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "BookTok made reading cool again — but it also turned authors into content creators" [ref=e155] [cursor=pointer]:
+          - /url: /article/booktok-authors-content-creators
+  - generic [ref=e157]:
+    - generic [ref=e158]:
+      - heading "Gift Guides" [level=2] [ref=e159]
+      - link "More Gift Guides" [ref=e160] [cursor=pointer]:
+        - /url: /gifts
+        - text: More Gift Guides
+        - img [ref=e161]
+    - generic [ref=e163]:
+      - generic [ref=e164]:
+        - link "illustration of a wrapped birthday present" [ref=e165] [cursor=pointer]:
+          - /url: /article/best-birthday-gifts-for-women
+          - img "illustration of a wrapped birthday present" [ref=e166]
+        - link "Tech" [ref=e167] [cursor=pointer]:
+          - /url: /tech
+        - link "Best birthday gift ideas for women" [ref=e168] [cursor=pointer]:
+          - /url: /article/best-birthday-gifts-for-women
+      - generic [ref=e169]:
+        - link "gift ideas" [ref=e170] [cursor=pointer]:
+          - /url: /gifts/unique-gifts-for-men
+          - img "gift ideas" [ref=e171]
+        - link "Life" [ref=e172] [cursor=pointer]:
+          - /url: /life
+        - link "Unique gift ideas for men who say they have everything" [ref=e173] [cursor=pointer]:
+          - /url: /gifts/unique-gifts-for-men
+      - generic [ref=e174]:
+        - link "woman wearing graduation cap and gown" [ref=e175] [cursor=pointer]:
+          - /url: /gifts/best-gifts-for-college-grads-useful
+          - img "woman wearing graduation cap and gown" [ref=e176]
+        - link "Life" [ref=e177] [cursor=pointer]:
+          - /url: /life
+        - link "The best college graduation gifts for life in the real world" [ref=e178] [cursor=pointer]:
+          - /url: /gifts/best-gifts-for-college-grads-useful
+      - generic [ref=e179]:
+        - link "gift ideas" [ref=e180] [cursor=pointer]:
+          - /url: /gifts/best-gifts-under-50-dollars
+          - img "gift ideas" [ref=e181]
+        - link "Life" [ref=e182] [cursor=pointer]:
+          - /url: /life
+        - link "The most unique gifts for less than $50" [ref=e183] [cursor=pointer]:
+          - /url: /gifts/best-gifts-under-50-dollars
+      - generic [ref=e184]:
+        - link "Ninja Crispi air fryer, Samsung The Frame TV, Skylight calendar, birthstone bracelets on wrist, and FabFitFun box in collage form" [ref=e185] [cursor=pointer]:
+          - /url: /gifts/best-mothers-day-gifts
+          - img "Ninja Crispi air fryer, Samsung The Frame TV, Skylight calendar, birthstone bracelets on wrist, and FabFitFun box in collage form" [ref=e186]
+        - link "Tech" [ref=e187] [cursor=pointer]:
+          - /url: /tech
+        - 'link "Best Mother''s Day gifts 2026: 40+ ideas for pampering, de-stressing, or making life easier" [ref=e188] [cursor=pointer]':
+          - /url: /gifts/best-mothers-day-gifts
+  - generic [ref=e189]:
+    - generic [ref=e190]:
+      - generic [ref=e191]:
+        - generic [ref=e192]:
+          - heading "Games" [level=2] [ref=e193]
+          - img "Mashable Games Dice" [ref=e194]
+        - link "More Gaming News" [ref=e195] [cursor=pointer]:
+          - /url: https://mashable.com/category/games
+          - text: More Gaming News
+          - img [ref=e196]
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - link [ref=e200] [cursor=pointer]:
+            - /url: https://games.mashable.com/
+            - img [ref=e201]
+          - link "Play free daily crosswords, solitaire, sudoku and more!" [ref=e202] [cursor=pointer]:
+            - /url: https://games.mashable.com/
+        - generic [ref=e203]:
+          - link [ref=e204] [cursor=pointer]:
+            - /url: /article/nyt-connections-hint-answer-today-may-11-2026
+            - generic [ref=e205]:
+              - img [ref=e206]
+              - img [ref=e208]
+          - 'link "NYT Connections hints today: Clues, answers for May 11, 2026" [ref=e209] [cursor=pointer]':
+            - /url: /article/nyt-connections-hint-answer-today-may-11-2026
+        - generic [ref=e210]:
+          - link [ref=e211] [cursor=pointer]:
+            - /url: /article/wordle-today-answer-may-11-2026
+            - generic [ref=e212]:
+              - img [ref=e213]
+              - img [ref=e215]
+          - 'link "Wordle today: Answer, hints for May 11, 2026" [ref=e216] [cursor=pointer]':
+            - /url: /article/wordle-today-answer-may-11-2026
+        - generic [ref=e217]:
+          - link [ref=e218] [cursor=pointer]:
+            - /url: /article/nyt-mini-crossword-answers-hints-may-8-2026
+            - generic [ref=e219]:
+              - img [ref=e220]
+              - img [ref=e222]
+          - link "NYT Mini crossword answers, hints for May 8, 2026" [ref=e223] [cursor=pointer]:
+            - /url: /article/nyt-mini-crossword-answers-hints-may-8-2026
+        - generic [ref=e224]:
+          - link [ref=e225] [cursor=pointer]:
+            - /url: /article/strands-nyt-hint-may-11-2026
+            - generic [ref=e226]:
+              - img [ref=e227]
+              - img [ref=e229]
+          - link "NYT Strands hints, answers for May 11, 2026" [ref=e230] [cursor=pointer]:
+            - /url: /article/strands-nyt-hint-may-11-2026
+        - generic [ref=e231]:
+          - link [ref=e232] [cursor=pointer]:
+            - /url: https://games.mashable.com/games/todays-hurdle
+            - img [ref=e233]
+          - 'link "Play Now: Today’s Hurdle puzzle" [ref=e234] [cursor=pointer]':
+            - /url: https://games.mashable.com/games/todays-hurdle
+        - generic [ref=e235]:
+          - link [ref=e236] [cursor=pointer]:
+            - /url: https://games.mashable.com/games/classic-solitaire
+            - img [ref=e237]
+          - 'link "Play Now: Solitaire Card Game" [ref=e238] [cursor=pointer]':
+            - /url: https://games.mashable.com/games/classic-solitaire
+        - generic [ref=e239]:
+          - link [ref=e240] [cursor=pointer]:
+            - /url: https://games.mashable.com/games/daily-crossword
+            - img [ref=e241]
+          - 'link "Play Now: Daily Crossword" [ref=e242] [cursor=pointer]':
+            - /url: https://games.mashable.com/games/daily-crossword
+    - img "Mashable Games Crossword Boxes Horizontal" [ref=e244]
+    - img "Mashable Games Crossword Boxes Vertical" [ref=e246]
+    - img "Mashable Games Puzzle Piece" [ref=e248]
+  - generic [ref=e250]:
+    - generic [ref=e251]:
+      - heading "Digital Culture" [level=2] [ref=e252]
+      - link "More Digital Culture" [ref=e253] [cursor=pointer]:
+        - /url: https://mashable.com/category/digital-culture
+        - text: More Digital Culture
+        - img [ref=e254]
+    - generic [ref=e256]:
+      - generic [ref=e257]:
+        - link "Charli XCX attends the \"The Moment\" premiere." [ref=e258] [cursor=pointer]:
+          - /url: /article/charli-xcx-new-song-instagram-vinyl
+          - img "Charli XCX attends the \"The Moment\" premiere." [ref=e259]
+        - link "Digital Culture" [ref=e260] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "Charli XCX releases new song only available on Instagram (and vinyl)" [ref=e261] [cursor=pointer]:
+          - /url: /article/charli-xcx-new-song-instagram-vinyl
+      - generic [ref=e262]:
+        - link "Sir David Attenborough attends the Global Launch of BBC Studios' \"Planet Earth III\" at Frameless on October 12, 2023 in London, England." [ref=e263] [cursor=pointer]:
+          - /url: /article/david-attenborough-100th-birthday-wasp
+          - img "Sir David Attenborough attends the Global Launch of BBC Studios' \"Planet Earth III\" at Frameless on October 12, 2023 in London, England." [ref=e264]
+        - link "Digital Culture" [ref=e265] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "Don't panic, David Attenborough is fine. It's his 100th birthday." [ref=e266] [cursor=pointer]:
+          - /url: /article/david-attenborough-100th-birthday-wasp
+      - generic [ref=e267]:
+        - link "Janelle Monae, Katy Perry, SZA, and Sam Smith at the 2026 Met Gala." [ref=e268] [cursor=pointer]:
+          - /url: /article/met-gala-2026-fashion-jeff-bezos-reaction-protest-boycott
+          - img "Janelle Monae, Katy Perry, SZA, and Sam Smith at the 2026 Met Gala." [ref=e269]
+        - link "Digital Culture" [ref=e270] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "The 2026 Met Gala was haunted by Jeff Bezos" [ref=e271] [cursor=pointer]:
+          - /url: /article/met-gala-2026-fashion-jeff-bezos-reaction-protest-boycott
+      - generic [ref=e272]:
+        - link "A screenshot of the Ask.com homepage." [ref=e273] [cursor=pointer]:
+          - /url: /article/ask-jeeves-shut-down
+          - img "A screenshot of the Ask.com homepage." [ref=e274]
+        - link "Digital Culture" [ref=e275] [cursor=pointer]:
+          - /url: /category/digital-culture
+        - link "Ask.com shuts down after 30 years" [ref=e276] [cursor=pointer]:
+          - /url: /article/ask-jeeves-shut-down
+  - generic [ref=e277]:
+    - heading "Watch Now" [level=2] [ref=e278]
+    - generic [ref=e279]:
+      - generic [ref=e280]:
+        - link "Garmin, Apple Watch, fitness tracker" [ref=e281] [cursor=pointer]:
+          - /url: /video/garmin-vs-apple-watch-battery-runners
+          - generic [ref=e282]:
+            - img [ref=e283]
+            - img "Garmin, Apple Watch, fitness tracker" [ref=e285]
+        - 'link "Weeks of battery vs. days: How Garmin helps runners" [ref=e286] [cursor=pointer]':
+          - /url: /video/garmin-vs-apple-watch-battery-runners
+      - generic [ref=e287]:
+        - link "A man sits behind a desk looking at a woman holding a newspaper." [ref=e288] [cursor=pointer]:
+          - /url: /video/snl-uk-donald-trump-nigel-farage-future-2046
+          - generic [ref=e289]:
+            - img [ref=e290]
+            - img "A man sits behind a desk looking at a woman holding a newspaper." [ref=e292]
+        - link "'SNL UK' cold open offers a terrifying look at Trump and Farage 20 years in the future" [ref=e293] [cursor=pointer]:
+          - /url: /video/snl-uk-donald-trump-nigel-farage-future-2046
+      - generic [ref=e294]:
+        - link "Three men stand at a bar top" [ref=e295] [cursor=pointer]:
+          - /url: /video/pete-hegseth-kash-patel-kavanaugh-go-drinking-snl
+          - generic [ref=e296]:
+            - img [ref=e297]
+            - img "Three men stand at a bar top" [ref=e299]
+        - link "Pete Hegseth and Brett Kavanaugh go drinking in 'SNL' Cold Open" [ref=e300] [cursor=pointer]:
+          - /url: /video/pete-hegseth-kash-patel-kavanaugh-go-drinking-snl
+      - generic [ref=e301]:
+        - link "Google I/O, Gemini" [ref=e302] [cursor=pointer]:
+          - /url: /video/google-io-2026-cheat-sheet
+          - generic [ref=e303]:
+            - img [ref=e304]
+            - img "Google I/O, Gemini" [ref=e306]
+        - 'link "Your Google I/O cheat sheet: What to expect" [ref=e307] [cursor=pointer]':
+          - /url: /video/google-io-2026-cheat-sheet
+    - link "More Videos" [ref=e308] [cursor=pointer]:
+      - /url: https://mashable.com/videos
+      - text: More Videos
+      - img [ref=e309]
+  - generic [ref=e312]: ADVERTISEMENT
+  - generic [ref=e313]:
+    - generic [ref=e314]:
+      - heading "Life" [level=2] [ref=e315]
+      - generic [ref=e316]:
+        - link [ref=e317] [cursor=pointer]:
+          - /url: /article/mars-life-asteroid-microbes-lithopanspermia
+          - img [ref=e318]
+        - link "Space" [ref=e319] [cursor=pointer]:
+          - /url: /category/space
+        - generic [ref=e320]: "|"
+        - generic [ref=e321]: hardy as hell
+        - link "Space-traveling microbes? An unusual experiment shocked skeptics." [ref=e322] [cursor=pointer]:
+          - /url: /article/mars-life-asteroid-microbes-lithopanspermia
+        - separator [ref=e323]
+        - link "As a first-time dog owner, these are my essentials to shop during Amazon Pet Week" [ref=e324] [cursor=pointer]:
+          - /url: /article/amazon-pet-week-dog-essentials
+        - separator [ref=e325]
+        - 'link "The great Grindr glossary: all terms and acronyms explained" [ref=e326] [cursor=pointer]':
+          - /url: /article/grindr-glossary-terms-explained
+        - separator [ref=e327]
+        - link "I had a Grindr sugar daddy for a day. Then he tried to get a refund." [ref=e328] [cursor=pointer]:
+          - /url: /article/grindr-sugar-daddy-refund
+        - link "More Life" [ref=e329] [cursor=pointer]:
+          - /url: /life
+          - text: More Life
+          - img [ref=e330]
+    - generic [ref=e332]:
+      - heading "Reviews" [level=2] [ref=e333]
+      - generic [ref=e334]:
+        - link [ref=e335] [cursor=pointer]:
+          - /url: /review/bowers-wilkins-px8-s2-wireless-headphones
+          - img [ref=e336]
+        - 'link "Review: Bowers & Wilkins PX8 S2 are the best headphones you (probably) can''t afford" [ref=e337] [cursor=pointer]':
+          - /url: /review/bowers-wilkins-px8-s2-wireless-headphones
+        - separator [ref=e338]
+        - link "The Hisense M2 Pro projector proves you don't need a normal TV anymore" [ref=e339] [cursor=pointer]:
+          - /url: /review/hisense-m2-pro-projector
+        - separator [ref=e340]
+        - link "I tried the Dyson Spot+Scrub Ai at home. I was cursing it out more often than I was cheering it on." [ref=e341] [cursor=pointer]:
+          - /url: /review/dyson-spot-scrub-ai-robot-vacuum
+        - separator [ref=e342]
+        - link "Petlibro's Luma litter box is a mid-range Litter-Robot dupe people have been waiting for" [ref=e343] [cursor=pointer]:
+          - /url: /review/petlibro-luma-cat-litter-box
+        - link "More Reviews" [ref=e344] [cursor=pointer]:
+          - /url: https://mashable.com/review
+          - text: More Reviews
+          - img [ref=e345]
+    - generic [ref=e347]:
+      - heading "Best Products" [level=2] [ref=e348]
+      - generic [ref=e349]:
+        - link [ref=e350] [cursor=pointer]:
+          - /url: /roundup/best-art-tvs
+          - img [ref=e351]
+        - 'link "Comparing the best art TVs: How to decide between The Frame and its growing list of competitors" [ref=e352] [cursor=pointer]':
+          - /url: /roundup/best-art-tvs
+        - separator [ref=e353]
+        - link "The best dating apps for serious relationships" [ref=e354] [cursor=pointer]:
+          - /url: /roundup/best-dating-apps-for-serious-relationships
+        - separator [ref=e355]
+        - link "Pride is almost here! Check out the best dating apps for LGBTQ women." [ref=e356] [cursor=pointer]:
+          - /url: /roundup/best-dating-apps-for-lesbians
+        - separator [ref=e357]
+        - 'link "The best hookup apps for 2026: I swiped until my thumb hurt" [ref=e358] [cursor=pointer]':
+          - /url: /roundup/best-hookup-apps-2026
+        - link "More of the Best" [ref=e359] [cursor=pointer]:
+          - /url: https://mashable.com/roundups
+          - text: More of the Best
+          - img [ref=e360]
+  - generic [ref=e362]:
+    - generic [ref=e363]:
+      - heading "Social Good" [level=2] [ref=e364]
+      - generic [ref=e365]:
+        - link [ref=e366] [cursor=pointer]:
+          - /url: /article/lgbtq-online-safety-tiktok-x-meta-youtube
+          - img [ref=e367]
+        - 'link "New report: X remains the most dangerous platform for LGBTQ users" [ref=e368] [cursor=pointer]':
+          - /url: /article/lgbtq-online-safety-tiktok-x-meta-youtube
+        - separator [ref=e369]
+        - link "ChatGPT users can now choose a 'trusted contact\"" [ref=e370] [cursor=pointer]:
+          - /url: /article/chatgpt-trusted-contact
+        - separator [ref=e371]
+        - link "Microsoft may abandon one of its climate goals. Blame data centers." [ref=e372] [cursor=pointer]:
+          - /url: /article/microsoft-abandons-clean-energy-goal
+        - separator [ref=e373]
+        - link "Pennsylvania is suing Character.AI for allegedly practicing medicine without a license" [ref=e374] [cursor=pointer]:
+          - /url: /article/pennslyvania-suing-character-ai-for-chatbot-practicing-medicine
+        - link "More Social Good" [ref=e375] [cursor=pointer]:
+          - /url: https://mashable.com/category/social-good
+          - text: More Social Good
+          - img [ref=e376]
+    - generic [ref=e378]:
+      - heading "Science" [level=2] [ref=e379]
+      - generic [ref=e380]:
+        - link [ref=e381] [cursor=pointer]:
+          - /url: /article/moon-phase-today-may-11
+          - img [ref=e382]
+        - 'link "Moon phase today: What the Moon will look like on May 11" [ref=e383] [cursor=pointer]':
+          - /url: /article/moon-phase-today-may-11
+        - separator [ref=e384]
+        - 'link "Moon phase today: What the Moon will look like on May 10" [ref=e385] [cursor=pointer]':
+          - /url: /article/moon-phase-today-may-10
+        - separator [ref=e386]
+        - 'link "Moon phase today: What the Moon will look like on May 9" [ref=e387] [cursor=pointer]':
+          - /url: /article/moon-phase-today-may-9
+        - separator [ref=e388]
+        - link "It almost got away, but NASA's Juno caught something near Jupiter" [ref=e389] [cursor=pointer]:
+          - /url: /article/nasa-juno-jupiter-moon-thebe-image
+        - link "More Science" [ref=e390] [cursor=pointer]:
+          - /url: /science
+          - text: More Science
+          - img [ref=e391]
+    - generic [ref=e393]:
+      - heading "Deals" [level=2] [ref=e394]
+      - generic [ref=e395]:
+        - link [ref=e396] [cursor=pointer]:
+          - /url: /article/may-11-soundcore-aerofit-2-pro-deal
+          - img [ref=e397]
+        - link "The Soundcore AeroFit 2 Pro are ANC and open earbuds — and they're at one of their lowest prices ever" [ref=e398] [cursor=pointer]:
+          - /url: /article/may-11-soundcore-aerofit-2-pro-deal
+        - separator [ref=e399]
+        - link "The Mammotion LUBA 3 AWD 5000H robot lawn mower is on sale at Amazon for $400 off" [ref=e400] [cursor=pointer]:
+          - /url: /article/may-11-mammotion-luba-3-robot-lawn-mower-deal
+        - separator [ref=e401]
+        - link "My Best Buy Plus memberships just got a permanent price drop down to $29.99" [ref=e402] [cursor=pointer]:
+          - /url: /article/may-11-my-best-buy-membership-pricing
+        - separator [ref=e403]
+        - link "The 8th 'Dungeon Crawler Carl' book comes out tomorrow and Amazon has a major discount on pre-orders" [ref=e404] [cursor=pointer]:
+          - /url: /article/may-12-dungeon-crawler-carl
+        - link "More Deals" [ref=e405] [cursor=pointer]:
+          - /url: https://mashable.com/deals
+          - text: More Deals
+          - img [ref=e406]
+  - generic [ref=e409]:
+    - generic [ref=e410]:
+      - heading "Watch Guides" [level=2] [ref=e411]
+      - link "More Watch Guides" [ref=e412] [cursor=pointer]:
+        - /url: https://mashable.com/category/watch-guides
+        - text: More Watch Guides
+        - img [ref=e413]
+    - generic [ref=e415]:
+      - generic [ref=e416]:
+        - link "A composite of images from movies represented in the list." [ref=e417] [cursor=pointer]:
+          - /url: /article/best-action-movies-on-netflix
+          - img "A composite of images from movies represented in the list." [ref=e418]
+        - link "Movies" [ref=e419] [cursor=pointer]:
+          - /url: /category/movies
+        - link "The best action movies on Netflix right now" [ref=e420] [cursor=pointer]:
+          - /url: /article/best-action-movies-on-netflix
+      - generic [ref=e421]:
+        - link "A composite of movie stills from movies featured on this list." [ref=e422] [cursor=pointer]:
+          - /url: /article/best-comedies-on-netflix
+          - img "A composite of movie stills from movies featured on this list." [ref=e423]
+        - link "Movies" [ref=e424] [cursor=pointer]:
+          - /url: /category/movies
+        - link "The 30 best comedies streaming on Netflix right now" [ref=e425] [cursor=pointer]:
+          - /url: /article/best-comedies-on-netflix
+      - generic [ref=e426]:
+        - link "A composite of images from film and TV streaming this week." [ref=e427] [cursor=pointer]:
+          - /url: /article/new-to-streaming-april-24-2026
+          - img "A composite of images from film and TV streaming this week." [ref=e428]
+        - link "Movies" [ref=e429] [cursor=pointer]:
+          - /url: /category/movies
+        - link "What's new to streaming this week? (April 24, 2026)" [ref=e430] [cursor=pointer]:
+          - /url: /article/new-to-streaming-april-24-2026
+      - generic [ref=e431]:
+        - link "two hockey sticks during face off" [ref=e432] [cursor=pointer]:
+          - /url: /article/how-to-watch-nhl-stanley-cup-playoffs-2026
+          - img "two hockey sticks during face off" [ref=e433]
+        - link "Entertainment" [ref=e434] [cursor=pointer]:
+          - /url: /entertainment
+        - 'link "NHL Stanley Cup playoffs streaming guide: How to watch every hockey matchup in the 2026 playoffs" [ref=e435] [cursor=pointer]':
+          - /url: /article/how-to-watch-nhl-stanley-cup-playoffs-2026
+  - main
+  - generic [ref=e436]:
+    - generic [ref=e438]:
+      - separator [ref=e439]
+      - generic [ref=e440]: More on Mashable
+      - generic [ref=e441]:
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - link "New details on the Steam Machine have leaked, pre-orders could begin soon" [ref=e445] [cursor=pointer]:
+              - /url: /article/steam-machine-details-leaked-pre-orders-begin-soon
+            - generic [ref=e446]: Valve's console-sized PC is getting closer to reality.
+            - generic [ref=e447]:
+              - time [ref=e448]: 7 hours ago
+              - generic [ref=e449]:
+                - text: By
+                - link "Chance Townsend" [ref=e450] [cursor=pointer]:
+                  - /url: /author/chance-townsend
+          - link "valve steam machine console covered in stickers" [ref=e451] [cursor=pointer]:
+            - /url: /article/steam-machine-details-leaked-pre-orders-begin-soon
+            - img "valve steam machine console covered in stickers" [ref=e453]
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - link "How to watch the 2026 Giro d’Italia online for free" [ref=e457] [cursor=pointer]:
+              - /url: /article/giro-italia-2026-live-stream-for-free
+            - generic [ref=e458]: Bypass geo-restrictions to live stream this Grand Tour from anywhere in the world.
+            - generic [ref=e459]:
+              - time [ref=e460]: 13 hours ago
+              - generic [ref=e461]:
+                - text: By
+                - link "Joseph Green" [ref=e462] [cursor=pointer]:
+                  - /url: /author/joe92
+          - link "Jonathan Milan and Paul Magnier battle" [ref=e463] [cursor=pointer]:
+            - /url: /article/giro-italia-2026-live-stream-for-free
+            - img "Jonathan Milan and Paul Magnier battle" [ref=e465]
+        - generic [ref=e467]:
+          - generic [ref=e468]:
+            - link "Apple's macOS 27 will fix the most annoying design issues in macOS Tahoe, report claims" [ref=e469] [cursor=pointer]:
+              - /url: /article/apple-macos-tahoe-redesign
+            - generic [ref=e470]: Call it a "slight redesign."
+            - generic [ref=e471]:
+              - time [ref=e472]: 13 hours ago
+              - generic [ref=e473]:
+                - text: By
+                - link "Stan Schroeder" [ref=e474] [cursor=pointer]:
+                  - /url: /author/stan-schroeder
+          - link "Apple macOS Tahoe" [ref=e475] [cursor=pointer]:
+            - /url: /article/apple-macos-tahoe-redesign
+            - img "Apple macOS Tahoe" [ref=e477]
+        - generic [ref=e479]:
+          - generic [ref=e480]:
+            - link "NYT Pips hints, answers for May 11, 2026" [ref=e481] [cursor=pointer]:
+              - /url: /article/pips-nyt-games-hints-answers-easy-medium-hard-may-11-2026
+            - generic [ref=e482]: Stuck on Easy, Medium, or Hard? We have everything you need right here.
+            - generic [ref=e483]:
+              - time [ref=e484]: 14 hours ago
+              - generic [ref=e485]:
+                - text: By
+                - link "Mashable Team" [ref=e486] [cursor=pointer]:
+                  - /url: /author/mashable-team
+          - link "A phone with the Pips logo." [ref=e487] [cursor=pointer]:
+            - /url: /article/pips-nyt-games-hints-answers-easy-medium-hard-may-11-2026
+            - generic [ref=e489]:
+              - img [ref=e490]
+              - img "A phone with the Pips logo." [ref=e492]
+        - generic [ref=e494]:
+          - generic [ref=e495]:
+            - link "Should you get an AirTag or a GPS tracker for your dog? Experts weigh in." [ref=e496] [cursor=pointer]:
+              - /url: /article/airtag-versus-gps-collar-for-dogs
+            - generic [ref=e497]: Want to keep Fido safe? These might help.
+            - generic [ref=e498]:
+              - time [ref=e499]: 14 hours ago
+              - generic [ref=e500]:
+                - text: By
+                - link "Samantha Mangino" [ref=e501] [cursor=pointer]:
+                  - /url: /author/samantha-mangino
+          - link "A Fi dog collar, a Halo dog collar, and an AirTag on a colorful background" [ref=e502] [cursor=pointer]:
+            - /url: /article/airtag-versus-gps-collar-for-dogs
+            - img "A Fi dog collar, a Halo dog collar, and an AirTag on a colorful background" [ref=e504]
+        - generic [ref=e506]:
+          - generic [ref=e507]:
+            - link "Hurdle hints and answers for May 11, 2026" [ref=e508] [cursor=pointer]:
+              - /url: /article/hurdle-hints-answers-may-11-2026
+            - generic [ref=e509]: Everything you need to win.
+            - generic [ref=e510]:
+              - time [ref=e511]: 19 hours ago
+              - generic [ref=e512]:
+                - text: By
+                - link "Mashable Team" [ref=e513] [cursor=pointer]:
+                  - /url: /author/mashable-team
+          - link "Hurdle game on a smartphone" [ref=e514] [cursor=pointer]:
+            - /url: /article/hurdle-hints-answers-may-11-2026
+            - img "Hurdle game on a smartphone" [ref=e516]
+        - generic [ref=e518]:
+          - generic [ref=e519]:
+            - link "NYT Strands hints, answers for May 10, 2026" [ref=e520] [cursor=pointer]:
+              - /url: /article/strands-nyt-hint-may-10-2026
+            - generic [ref=e521]: Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.
+            - generic [ref=e522]:
+              - time [ref=e523]: 05/10/2026
+              - generic [ref=e524]:
+                - text: By
+                - link "Mashable Team" [ref=e525] [cursor=pointer]:
+                  - /url: /author/mashable-team
+          - link "A game being played on a smartphone." [ref=e526] [cursor=pointer]:
+            - /url: /article/strands-nyt-hint-may-10-2026
+            - generic [ref=e528]:
+              - img [ref=e529]
+              - img "A game being played on a smartphone." [ref=e531]
+        - generic [ref=e533]:
+          - generic [ref=e534]:
+            - 'link "Wordle today: Answer, hints for May 10, 2026" [ref=e535] [cursor=pointer]':
+              - /url: /article/wordle-today-answer-may-10-2026
+            - generic [ref=e536]: "Here are some tips and tricks to help you find the answer to \"Wordle\" #1786."
+            - generic [ref=e537]:
+              - time [ref=e538]: 05/10/2026
+              - generic [ref=e539]:
+                - text: By
+                - link "Mashable Team" [ref=e540] [cursor=pointer]:
+                  - /url: /author/mashable-team
+          - link "Wordle game on a smartphone" [ref=e541] [cursor=pointer]:
+            - /url: /article/wordle-today-answer-may-10-2026
+            - generic [ref=e543]:
+              - img [ref=e544]
+              - img "Wordle game on a smartphone" [ref=e546]
+        - generic [ref=e548]:
+          - generic [ref=e549]:
+            - link "NYT Pips hints, answers for May 10, 2026" [ref=e550] [cursor=pointer]:
+              - /url: /article/pips-nyt-games-hints-answers-easy-medium-hard-may-10-2026
+            - generic [ref=e551]: Stuck on Easy, Medium, or Hard? We have everything you need right here.
+            - generic [ref=e552]:
+              - time [ref=e553]: 05/10/2026
+              - generic [ref=e554]:
+                - text: By
+                - link "Mashable Team" [ref=e555] [cursor=pointer]:
+                  - /url: /author/mashable-team
+          - link "A phone with the Pips logo." [ref=e556] [cursor=pointer]:
+            - /url: /article/pips-nyt-games-hints-answers-easy-medium-hard-may-10-2026
+            - generic [ref=e558]:
+              - img [ref=e559]
+              - img "A phone with the Pips logo." [ref=e561]
+        - generic [ref=e563]:
+          - generic [ref=e564]:
+            - 'link "NYT Connections hints today: Clues, answers for May 10, 2026" [ref=e565] [cursor=pointer]':
+              - /url: /article/nyt-connections-hint-answer-today-may-10-2026
+            - generic [ref=e566]: "Everything you need to solve 'Connections' #1064."
+            - generic [ref=e567]:
+              - time [ref=e568]: 05/10/2026
+              - generic [ref=e569]:
+                - text: By
+                - link "Mashable Team" [ref=e570] [cursor=pointer]:
+                  - /url: /author/mashable-team
+          - link "Connections game on a smartphone" [ref=e571] [cursor=pointer]:
+            - /url: /article/nyt-connections-hint-answer-today-may-10-2026
+            - generic [ref=e573]:
+              - img [ref=e574]
+              - img "Connections game on a smartphone" [ref=e576]
+      - generic [ref=e577]:
+        - separator [ref=e578]
+        - button "Show more" [ref=e579] [cursor=pointer]
+    - text: ADVERTISEMENT
+  - generic [ref=e581]:
+    - generic [ref=e582]:
+      - generic [ref=e583]: The biggest stories of the day delivered to your inbox.
+      - generic [ref=e585]:
+        - textbox "Email" [ref=e586]:
+          - /placeholder: Enter Email
+        - button "Sign Me Up" [disabled] [ref=e587]
+        - textbox [ref=e588]: "1"
+    - generic [ref=e589]:
+      - text: These newsletters may contain advertising, deals, or affiliate links. By clicking Subscribe, you confirm you are 16+ and agree to our
+      - link "Terms of Use" [ref=e590] [cursor=pointer]:
+        - /url: https://www.ziffdavis.com/terms-of-use
+      - text: and
+      - link "Privacy Policy" [ref=e591] [cursor=pointer]:
+        - /url: https://www.ziffdavis.com/ztg-privacy-policy
+      - text: .
+  - contentinfo [ref=e592]:
+    - generic [ref=e593]:
+      - generic [ref=e594]:
+        - img [ref=e595]
+        - img [ref=e597]
+      - generic [ref=e599]:
+        - list [ref=e600]:
+          - listitem [ref=e601]:
+            - link "TECH" [ref=e603] [cursor=pointer]:
+              - /url: https://mashable.com/tech
+            - generic [ref=e604]:
+              - link "Android" [ref=e605] [cursor=pointer]:
+                - /url: https://mashable.com/category/android
+              - link "Antivirus" [ref=e606] [cursor=pointer]:
+                - /url: https://mashable.com/category/antivirus
+              - link "Apple" [ref=e607] [cursor=pointer]:
+                - /url: https://mashable.com/category/apple
+              - link "Artificial Intelligence" [ref=e608] [cursor=pointer]:
+                - /url: https://mashable.com/category/artificial-intelligence
+              - link "Cameras" [ref=e609] [cursor=pointer]:
+                - /url: https://mashable.com/category/cameras
+              - link "Creative Software" [ref=e610] [cursor=pointer]:
+                - /url: https://mashable.com/category/creative-software
+              - link "Cryptocurrency" [ref=e611] [cursor=pointer]:
+                - /url: https://mashable.com/category/cryptocurrency
+              - link "Desktops" [ref=e612] [cursor=pointer]:
+                - /url: https://mashable.com/category/desktops
+              - link "Gaming Consoles" [ref=e613] [cursor=pointer]:
+                - /url: https://mashable.com/category/gaming-consoles
+              - link "Headphones" [ref=e614] [cursor=pointer]:
+                - /url: https://mashable.com/category/headphones
+              - link "Laptops" [ref=e615] [cursor=pointer]:
+                - /url: https://mashable.com/category/laptops
+              - link "Microsoft" [ref=e616] [cursor=pointer]:
+                - /url: https://mashable.com/category/microsoft
+              - link "Mobile" [ref=e617] [cursor=pointer]:
+                - /url: https://mashable.com/category/mobile
+              - link "Productivity" [ref=e618] [cursor=pointer]:
+                - /url: https://mashable.com/category/productivity
+              - link "Smart Home" [ref=e619] [cursor=pointer]:
+                - /url: https://mashable.com/category/smart-home
+              - link "Social Media" [ref=e620] [cursor=pointer]:
+                - /url: https://mashable.com/category/social-media
+              - link "Speakers" [ref=e621] [cursor=pointer]:
+                - /url: https://mashable.com/category/speakers
+              - link "Tablets" [ref=e622] [cursor=pointer]:
+                - /url: https://mashable.com/category/tablets
+              - link "Tech Industry" [ref=e623] [cursor=pointer]:
+                - /url: https://mashable.com/category/tech-industry
+              - link "TikTok" [ref=e624] [cursor=pointer]:
+                - /url: https://mashable.com/category/tiktok
+              - link "Transportation" [ref=e625] [cursor=pointer]:
+                - /url: https://mashable.com/category/transportation
+              - link "TVs" [ref=e626] [cursor=pointer]:
+                - /url: https://mashable.com/category/tvs
+              - link "VPN" [ref=e627] [cursor=pointer]:
+                - /url: https://mashable.com/category/vpn
+              - link "Wifi/Routers" [ref=e628] [cursor=pointer]:
+                - /url: https://mashable.com/category/wifirouters
+          - listitem [ref=e629]:
+            - generic [ref=e630]:
+              - link "SCIENCE" [ref=e632] [cursor=pointer]:
+                - /url: https://mashable.com/science
+              - generic [ref=e633]:
+                - link "Animals" [ref=e634] [cursor=pointer]:
+                  - /url: https://mashable.com/category/animals
+                - link "Climate Change" [ref=e635] [cursor=pointer]:
+                  - /url: https://mashable.com/category/climate-change
+                - link "Environment" [ref=e636] [cursor=pointer]:
+                  - /url: https://mashable.com/category/environment
+                - link "NASA" [ref=e637] [cursor=pointer]:
+                  - /url: https://mashable.com/category/nasa
+                - link "Rocket Launches" [ref=e638] [cursor=pointer]:
+                  - /url: https://mashable.com/category/rocket-launches
+                - link "Space" [ref=e639] [cursor=pointer]:
+                  - /url: https://mashable.com/category/space
+            - generic [ref=e640]:
+              - link "GAMES" [ref=e642] [cursor=pointer]:
+                - /url: https://games.mashable.com/
+              - generic [ref=e643]:
+                - link "Arcade" [ref=e644] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/arcade
+                - link "Card" [ref=e645] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/card
+                - link "Casino" [ref=e646] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/casino
+                - link "Connections" [ref=e647] [cursor=pointer]:
+                  - /url: https://mashable.com/category/connections
+                - link "Daily" [ref=e648] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/daily
+                - link "Puzzles" [ref=e649] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/puzzles
+                - link "Strands" [ref=e650] [cursor=pointer]:
+                  - /url: https://mashable.com/category/strands
+                - link "Word" [ref=e651] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/word
+                - link "Wordle" [ref=e652] [cursor=pointer]:
+                  - /url: https://mashable.com/category/wordle
+            - link "SOCIAL GOOD" [ref=e654] [cursor=pointer]:
+              - /url: https://mashable.com/category/social-good
+            - generic [ref=e655]:
+              - link "DEALS" [ref=e657] [cursor=pointer]:
+                - /url: https://mashable.com/deals
+              - link "How we Select Deals" [ref=e659] [cursor=pointer]:
+                - /url: https://mashable.com/about/deals-coverage-explained
+          - listitem [ref=e660]:
+            - generic [ref=e661]:
+              - link "ENTERTAINMENT" [ref=e663] [cursor=pointer]:
+                - /url: https://mashable.com/entertainment
+              - generic [ref=e664]:
+                - link "DC Comics" [ref=e665] [cursor=pointer]:
+                  - /url: https://mashable.com/category/dc-comics
+                - link "Disney" [ref=e666] [cursor=pointer]:
+                  - /url: https://mashable.com/category/disney
+                - link "HBO" [ref=e667] [cursor=pointer]:
+                  - /url: https://mashable.com/category/hbo
+                - link "Hulu" [ref=e668] [cursor=pointer]:
+                  - /url: https://mashable.com/category/hulu
+                - link "Marvel" [ref=e669] [cursor=pointer]:
+                  - /url: https://mashable.com/category/marvel
+                - link "Movies" [ref=e670] [cursor=pointer]:
+                  - /url: https://mashable.com/category/movies
+                - link "Music" [ref=e671] [cursor=pointer]:
+                  - /url: https://mashable.com/category/music
+                - link "Peacock" [ref=e672] [cursor=pointer]:
+                  - /url: https://mashable.com/category/peacock
+                - link "Pixar" [ref=e673] [cursor=pointer]:
+                  - /url: https://mashable.com/category/pixar
+                - link "Podcasts" [ref=e674] [cursor=pointer]:
+                  - /url: https://mashable.com/category/podcasts
+                - link "Streaming" [ref=e675] [cursor=pointer]:
+                  - /url: https://mashable.com/category/streaming
+                - link "TV Shows" [ref=e676] [cursor=pointer]:
+                  - /url: https://mashable.com/category/tv-shows
+                - link "True Crime" [ref=e677] [cursor=pointer]:
+                  - /url: https://mashable.com/category/true-crime
+            - generic [ref=e678]:
+              - link "LIFE" [ref=e680] [cursor=pointer]:
+                - /url: https://mashable.com/life
+              - generic [ref=e681]:
+                - link "Careers" [ref=e682] [cursor=pointer]:
+                  - /url: https://mashable.com/category/careers
+                - link "Digital Culture" [ref=e683] [cursor=pointer]:
+                  - /url: https://mashable.com/category/digital-culture
+                - link "Education" [ref=e684] [cursor=pointer]:
+                  - /url: https://mashable.com/category/education
+                - link "Family & Parenting" [ref=e685] [cursor=pointer]:
+                  - /url: https://mashable.com/category/family-parenting
+                - link "Health & Wellness" [ref=e686] [cursor=pointer]:
+                  - /url: https://mashable.com/category/health-wellness
+                - link "House & Home" [ref=e687] [cursor=pointer]:
+                  - /url: https://mashable.com/category/house-home
+                - link "Mental Health" [ref=e688] [cursor=pointer]:
+                  - /url: https://mashable.com/category/mental-health
+                - link "Sex, Dating & Relationships" [ref=e689] [cursor=pointer]:
+                  - /url: https://mashable.com/category/sex-dating-relationships
+                - link "Sleep" [ref=e690] [cursor=pointer]:
+                  - /url: https://mashable.com/category/sleep
+          - listitem [ref=e691]:
+            - generic [ref=e692]:
+              - link "SHOP THE BEST" [ref=e694] [cursor=pointer]:
+                - /url: https://mashable.com/roundups
+              - generic [ref=e695]:
+                - link "All Beauty" [ref=e696] [cursor=pointer]:
+                  - /url: https://mashable.com/category/beauty
+                - link "All Earbuds" [ref=e697] [cursor=pointer]:
+                  - /url: https://mashable.com/category/earbuds
+                - link "All Kitchen" [ref=e698] [cursor=pointer]:
+                  - /url: https://mashable.com/category/kitchen
+                - link "All Robot Vacuums" [ref=e699] [cursor=pointer]:
+                  - /url: https://mashable.com/category/robot-vacuums
+                - link "Bluetooth Speakers" [ref=e700] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-bluetooth-speakers
+                - link "Budget Laptops" [ref=e701] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-cheap-laptops
+                - link "Dating Apps" [ref=e702] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-dating-apps
+                - link "E-Readers" [ref=e703] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-e-readers
+                - link "Gift Guides" [ref=e704] [cursor=pointer]:
+                  - /url: https://mashable.com/gifts
+                - link "Headphones" [ref=e705] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-noise-cancelling-headphones
+                - link "Hookup Apps" [ref=e706] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-hookup-apps
+                - link "iPads" [ref=e707] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-ipads
+                - link "Kindles" [ref=e708] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-kindles
+                - link "Laptops" [ref=e709] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-laptops
+                - link "Mashable Choice" [ref=e710] [cursor=pointer]:
+                  - /url: https://mashable.com/mashable-choice
+                - link "Mashable Selects" [ref=e711] [cursor=pointer]:
+                  - /url: https://mashable.com/category/mashable-selects
+                - link "Speakers" [ref=e712] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-portable-bluetooth-speakers
+                - link "Sexting Apps" [ref=e713] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-sexting-apps
+                - link "Macbooks" [ref=e714] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/the-best-macbooks
+                - link "Robot Vaccuums" [ref=e715] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-robot-vacuums
+                - link "Robot Vaccum & Mop" [ref=e716] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-robot-vacuum-and-mop
+                - link "VPNs" [ref=e717] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-vpns
+                - link "Windows Laptops" [ref=e718] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/the-best-windows-laptops
+          - listitem [ref=e719]:
+            - generic [ref=e720]:
+              - link "REVIEWS" [ref=e722] [cursor=pointer]:
+                - /url: https://mashable.com/review
+              - generic [ref=e723]:
+                - link "Adult Friend Finder" [ref=e724] [cursor=pointer]:
+                  - /url: https://mashable.com/review/adult-friend-finder-review-dating-site
+                - link "Bumble Premium" [ref=e725] [cursor=pointer]:
+                  - /url: https://mashable.com/review/bumble-premium-review
+                - link "Kindle Paperwhite" [ref=e726] [cursor=pointer]:
+                  - /url: https://mashable.com/review/kindle-paperwhite-signature-edition
+                - link "PS5 vs PS5 Slim" [ref=e727] [cursor=pointer]:
+                  - /url: https://mashable.com/article/ps5-vs-ps5-slim-differences
+                - link "Tinder Platinum" [ref=e728] [cursor=pointer]:
+                  - /url: https://mashable.com/review/tinder-platinum-review
+            - generic [ref=e729]:
+              - link "EVENTS" [ref=e731] [cursor=pointer]:
+                - /url: ""
+              - generic [ref=e732]:
+                - link "Black Friday" [ref=e733] [cursor=pointer]:
+                  - /url: https://mashable.com/category/black-friday
+                - link "CES" [ref=e734] [cursor=pointer]:
+                  - /url: https://mashable.com/category/ces
+                - link "Cyber Monday" [ref=e735] [cursor=pointer]:
+                  - /url: https://mashable.com/category/cyber-monday
+                - link "Prime Day" [ref=e736] [cursor=pointer]:
+                  - /url: https://mashable.com/category/prime-day
+                - link "Samsung Galaxy Unpacked" [ref=e737] [cursor=pointer]:
+                  - /url: https://mashable.com/category/samsung-unpacked
+                - link "WWDC" [ref=e738] [cursor=pointer]:
+                  - /url: https://mashable.com/category/wwdc
+            - link "VIDEOS" [ref=e740] [cursor=pointer]:
+              - /url: https://mashable.com/videos
+        - separator [ref=e741]
+        - list [ref=e742]:
+          - listitem [ref=e743]:
+            - link "About Mashable" [ref=e744] [cursor=pointer]:
+              - /url: https://mashable.com/about/mashable-staff-masthead
+          - listitem [ref=e745]:
+            - link "Editorial Standards" [ref=e746] [cursor=pointer]:
+              - /url: https://mashable.com/about/editorial-standards
+          - listitem [ref=e747]:
+            - link "Contact Us" [ref=e748] [cursor=pointer]:
+              - /url: https://mashable.com/about/contact-us
+          - listitem [ref=e749]:
+            - link "We're Hiring" [ref=e750] [cursor=pointer]:
+              - /url: https://www.j2global.com/careers/jobs/?brand=Mashable
+          - listitem [ref=e751]:
+            - link "Newsletters" [ref=e752] [cursor=pointer]:
+              - /url: https://mashable.com/newsletters
+          - listitem [ref=e753]:
+            - link "Sitemap" [ref=e754] [cursor=pointer]:
+              - /url: https://mashable.com/sitemap
+        - list [ref=e755]:
+          - listitem [ref=e756]:
+            - link "Mashable Facebook Page" [ref=e757] [cursor=pointer]:
+              - /url: https://www.facebook.com/mashable/
+              - img [ref=e758]
+          - listitem [ref=e760]:
+            - link "Mashable Twitter Page" [ref=e761] [cursor=pointer]:
+              - /url: https://twitter.com/mashable
+              - img [ref=e762]
+          - listitem [ref=e764]:
+            - link "Mashable Instagram Page" [ref=e765] [cursor=pointer]:
+              - /url: http://instagram.com/Mashable
+              - img [ref=e766]
+          - listitem [ref=e768]:
+            - link "Mashable Youtube Page" [ref=e769] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/mashable
+              - img [ref=e770]
+          - listitem [ref=e772]:
+            - link "Mashable Pinterest Page" [ref=e773] [cursor=pointer]:
+              - /url: https://www.pinterest.com/mashable/
+              - img [ref=e774]
+          - listitem [ref=e776]:
+            - link "Mashable Tiktok Page" [ref=e777] [cursor=pointer]:
+              - /url: " https://www.tiktok.com/@mashable"
+              - img [ref=e778]
+          - listitem [ref=e780]:
+            - link "Mashable Flipboard Page" [ref=e781] [cursor=pointer]:
+              - /url: https://flipboard.com/@Mashable
+              - img [ref=e782]
+          - listitem [ref=e784]:
+            - link "Mashable Linkedin Page" [ref=e785] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/mashable
+              - img [ref=e786]
+          - listitem [ref=e788]:
+            - link "Mashable Feeds Page" [ref=e789] [cursor=pointer]:
+              - /url: https://mashable.com/feeds/rss/all
+              - img [ref=e790]
+        - separator [ref=e792]
+        - generic [ref=e793]:
+          - link "Ziff Davis" [ref=e795] [cursor=pointer]:
+            - /url: https://www.ziffdavis.com/
+            - img [ref=e796]
+          - separator [ref=e816]
+          - generic [ref=e817]:
+            - link "CNET" [ref=e819] [cursor=pointer]:
+              - /url: https://www.cnet.com/
+              - img [ref=e820]
+            - link "ZDNet" [ref=e826] [cursor=pointer]:
+              - /url: https://www.zdnet.com/
+              - img [ref=e827]
+            - link "PCMag" [ref=e834] [cursor=pointer]:
+              - /url: https://www.pcmag.com/
+              - img [ref=e835]
+            - link "Lifehacker" [ref=e843] [cursor=pointer]:
+              - /url: https://www.lifehacker.com/
+              - img [ref=e844]
+            - link "AskMen" [ref=e851] [cursor=pointer]:
+              - /url: https://www.askmen.com/
+              - img [ref=e852]
+            - link "Extreme Tech" [ref=e862] [cursor=pointer]:
+              - /url: https://www.extremetech.com/
+              - img [ref=e863]
+            - link "IGN" [ref=e869] [cursor=pointer]:
+              - /url: https://www.ign.com/
+              - img [ref=e870]
+            - link "Speed Test" [ref=e882] [cursor=pointer]:
+              - /url: https://www.speedtest.net/
+              - img [ref=e883]
+        - separator [ref=e897]
+        - generic [ref=e898]: ©2005–2026 Mashable, Inc., a Ziff Davis company. All Rights Reserved.
+        - generic [ref=e899]: Mashable is a registered trademark of Ziff Davis and may not be used by third parties without express written permission.
+        - list [ref=e900]:
+          - listitem [ref=e901]:
+            - link "About Ziff Davis" [ref=e902] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/about
+          - listitem [ref=e903]:
+            - link "Privacy Policy" [ref=e904] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/ztg-privacy-policy
+          - listitem [ref=e905]:
+            - link "Terms of Use" [ref=e906] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/terms-of-use
+          - listitem [ref=e907]:
+            - link "Advertise" [ref=e908] [cursor=pointer]:
+              - /url: https://ziffmedia.com/
+          - listitem [ref=e909]:
+            - link "Accessibility" [ref=e910] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/accessibility
+          - listitem [ref=e911]:
+            - link "Do Not Sell My Personal Information" [ref=e912] [cursor=pointer]:
+              - /url: https://dsar.mashable.com
+          - listitem [ref=e913]:
+            - button "ZiffDavis AdChoices AdChoices" [ref=e914] [cursor=pointer]:
+              - img "ZiffDavis AdChoices" [ref=e915]
+              - text: AdChoices
+          - listitem [ref=e916]:
+            - link "BBB Accredited Business Logo" [ref=e917] [cursor=pointer]:
+              - /url: https://www.bbb.org/us/ny/new-york/profile/digital-media/ziff-davis-llc-0121-531/#sealclick
+              - img [ref=e918]
+  - img [ref=e928] [cursor=pointer]

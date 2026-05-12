@@ -1,0 +1,526 @@
+- generic [active] [ref=e1]:
+  - group [ref=e2]:
+    - generic [ref=e3] [cursor=pointer]:
+      - link [ref=e5]:
+        - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvH1SsxGy45k8_Sx1w-b3lRqzHezMMGl12UAOMyyaDGnDCsbK7Gy8liLqIBugXnozuH3NYov35v3gbFjLQwQ4ugsMSq1KL9m91EeJAFa5gQfaGMko37PvJh-8r4CEpcLOYaDmE4kvSeXChRoQhkLo2hSo8pZ80TjRR2tVG2P4sGwK3hlcx3StE_Njq_DFrTwAbxYyBi9uWk-zF3wmdFVy_cxnPSyJTH9n-uOu0xzunq7n9_t5Pfe__iflv8CTJuGEaIQrQxojmi9kWdTksJ2AB9WrC1mgNP-H5n3ZacVbc39mCG3viAve2bhYZwBQvu8nOV5mK6gSrSRBOS4ohbe_jyE4tQW4OGyUWtiv-88_SpIqR9uFRamtmwjI3nCmKLLeIu-1LtZE3X7k16Rw_uXepSSibFdNA62bLQXoUtCBt10ahzGMsYbmCuQFwtCb5Z&sai=AMfl-YQlLyaXTPBQRXh7CzHRPQzMx968EzVE4_Dpy-isB4Crp_OV1_EeociXuqFRsTAOW_c56NMMP0cBuMwEdMWpJtpvNMmflrFFDPIB_iDQP5vuEDaovV4Ib6PzRm_I3fae2Yg4rrBxl_gKj3K43a4VKHbapNWBb7W_ZbL14QWBbDEP6lwwmZIalDm_EeBg6M1pSoSgsXVKUBVyjuUvKOhADSuoHTnfjFMrZSR9MRgl1WQjF9FvPi4GLymjs9V9Yqr-bqHyFfhoTbghXEXhJPA9omiHlStjsPS_pzf9SwrpsEVJ8XAMK_BYMvL2pm4wy-pYNlSRoCqnvYrG_8jqv_LvYsuedu62peBUDNYPDCXJqfBjFuunnMO9buU_hyYnAL7iRe6920DIV1kVzG1fR1hPxKQETlCqJmKZZrkXxA&sig=Cg0ArKJSzFPov4GeKFfoEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://ad.doubleclick.net/ddm/trackclk/N3671.2053704ZIFFDAVIS/B35475643.444147815%3Bdc_trk_aid%3D639552257%3Bdc_trk_cid%3D254656615%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%3Bgdpr_consent%3D%3Bltd%3D%3Bdc_tdv%3D1
+      - link [ref=e9]:
+        - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvH1SsxGy45k8_Sx1w-b3lRqzHezMMGl12UAOMyyaDGnDCsbK7Gy8liLqIBugXnozuH3NYov35v3gbFjLQwQ4ugsMSq1KL9m91EeJAFa5gQfaGMko37PvJh-8r4CEpcLOYaDmE4kvSeXChRoQhkLo2hSo8pZ80TjRR2tVG2P4sGwK3hlcx3StE_Njq_DFrTwAbxYyBi9uWk-zF3wmdFVy_cxnPSyJTH9n-uOu0xzunq7n9_t5Pfe__iflv8CTJuGEaIQrQxojmi9kWdTksJ2AB9WrC1mgNP-H5n3ZacVbc39mCG3viAve2bhYZwBQvu8nOV5mK6gSrSRBOS4ohbe_jyE4tQW4OGyUWtiv-88_SpIqR9uFRamtmwjI3nCmKLLeIu-1LtZE3X7k16Rw_uXepSSibFdNA62bLQXoUtCBt10ahzGMsYbmCuQFwtCb5Z&sai=AMfl-YQlLyaXTPBQRXh7CzHRPQzMx968EzVE4_Dpy-isB4Crp_OV1_EeociXuqFRsTAOW_c56NMMP0cBuMwEdMWpJtpvNMmflrFFDPIB_iDQP5vuEDaovV4Ib6PzRm_I3fae2Yg4rrBxl_gKj3K43a4VKHbapNWBb7W_ZbL14QWBbDEP6lwwmZIalDm_EeBg6M1pSoSgsXVKUBVyjuUvKOhADSuoHTnfjFMrZSR9MRgl1WQjF9FvPi4GLymjs9V9Yqr-bqHyFfhoTbghXEXhJPA9omiHlStjsPS_pzf9SwrpsEVJ8XAMK_BYMvL2pm4wy-pYNlSRoCqnvYrG_8jqv_LvYsuedu62peBUDNYPDCXJqfBjFuunnMO9buU_hyYnAL7iRe6920DIV1kVzG1fR1hPxKQETlCqJmKZZrkXxA&sig=Cg0ArKJSzFPov4GeKFfoEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://ad.doubleclick.net/ddm/trackclk/N3671.2053704ZIFFDAVIS/B35475643.444147815%3Bdc_trk_aid%3D639552257%3Bdc_trk_cid%3D254656615%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%3Bgdpr_consent%3D%3Bltd%3D%3Bdc_tdv%3D1
+  - iframe [ref=e17]:
+    - generic [active]:
+      - iframe
+  - navigation [ref=e18]:
+    - generic [ref=e19]:
+      - button "Menu" [ref=e20] [cursor=pointer]:
+        - img [ref=e21]
+      - link "Home" [ref=e23] [cursor=pointer]:
+        - /url: https://mashable.com
+        - img [ref=e25]
+      - generic [ref=e62] [cursor=pointer]:
+        - button "Search" [ref=e63]:
+          - img [ref=e64]
+        - generic [ref=e66]: Search
+  - banner [ref=e67]:
+    - generic [ref=e68]:
+      - generic [ref=e70]:
+        - link "Navigate to the Home page" [ref=e71] [cursor=pointer]:
+          - /url: https://mashable.com
+          - text: Home
+        - text: ">"
+        - link "Navigate to the Series category" [ref=e72] [cursor=pointer]:
+          - /url: https://mashable.com/series
+          - text: Series
+      - heading "AI at Play" [level=1] [ref=e73]
+    - img "AI at Play" [ref=e74]
+    - paragraph [ref=e77]: As Artificial intelligence moves into every corner of modern life, we examine the ways AI enhances how we have fun and seek connection.
+  - generic [ref=e79]:
+    - generic [ref=e80]:
+      - link "a cartoon woman waves her hand near a laptop as game elements appear above it. next to her a cartoon man sits" [ref=e81] [cursor=pointer]:
+        - /url: /article/generative-ai-in-video-games-retail-mage
+        - img "a cartoon woman waves her hand near a laptop as game elements appear above it. next to her a cartoon man sits" [ref=e82]
+      - link "Meet the developers integrating generative AI into a new video game" [ref=e85] [cursor=pointer]:
+        - /url: /article/generative-ai-in-video-games-retail-mage
+    - generic [ref=e86]:
+      - link "Pono on the lenovo yoga slim 7i aura edition" [ref=e87] [cursor=pointer]:
+        - /url: /ad/article/lenovo-yoga-slim-7i-aura-edition-for-creatives
+        - img "Pono on the lenovo yoga slim 7i aura edition" [ref=e88]
+      - link "How Lenovo's latest AI-powered laptop fuels creative expression" [ref=e91] [cursor=pointer]:
+        - /url: /ad/article/lenovo-yoga-slim-7i-aura-edition-for-creatives
+    - generic [ref=e92]:
+      - link "A cartoon woman uses social media on a smartphone while riding public transportation" [ref=e93] [cursor=pointer]:
+        - /url: /article/ai-social-media-features
+        - img "A cartoon woman uses social media on a smartphone while riding public transportation" [ref=e94]
+      - link "These AI social media features are sliding into your DMs" [ref=e97] [cursor=pointer]:
+        - /url: /article/ai-social-media-features
+    - generic [ref=e98]:
+      - link "A man holding a child uses a laptop while cooking" [ref=e99] [cursor=pointer]:
+        - /url: /article/5-apps-add-ai-to-old-tech
+        - img "A man holding a child uses a laptop while cooking" [ref=e100]
+      - link "5 apps to add AI to your older devices" [ref=e103] [cursor=pointer]:
+        - /url: /article/5-apps-add-ai-to-old-tech
+    - generic [ref=e104]:
+      - link "An illustration of a cyclist looking at a phone." [ref=e105] [cursor=pointer]:
+        - /url: /article/5-fun-ai-chatbot-prompts
+        - img "An illustration of a cyclist looking at a phone." [ref=e106]
+      - link "5 prompts to have a fun AI chatbot conversation" [ref=e109] [cursor=pointer]:
+        - /url: /article/5-fun-ai-chatbot-prompts
+    - generic [ref=e110]:
+      - link "A man plays a smartphone game in a car" [ref=e111] [cursor=pointer]:
+        - /url: /article/5-ai-games-you-can-play-right-now
+        - img "A man plays a smartphone game in a car" [ref=e112]
+      - link "5 AI games you can play right now" [ref=e115] [cursor=pointer]:
+        - /url: /article/5-ai-games-you-can-play-right-now
+  - generic [ref=e117]:
+    - text: ADVERTISEMENT
+    - iframe [ref=e119]:
+      - link [ref=f284e2] [cursor=pointer]:
+        - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjssy3zBC7a4hK-vPILSeKd3vkiRzfM8Yj81VmfRMgQHU0OU3Tsbz8HsTG6bfHlrwXc1rPPlxGXOo5fglF4fVrgbLzGYchz4owVv49DItg9KqQFwVonedKbDwAPALN7qB08A7ty9ixTvqlWsA3S38q9QGoXAlkkEIVg6npBBFwARSg-dRT4e7bk0hnFDTy7u5zH53ZC0rdmbTwXj0f0-eAGBnFw1RAyZfZaAVxPw9bZ45iwguZjh4WR6TRr2zWZ4Lbmn0TnbcKIpSGFmCyR5aPXEA1IkHERb-3UjbqAzLSlyZ8-7HIb-jf1gXyZdF99tjWjRiV0FnUmguj785JcaaE8Z31rj-FZp8oO433gqont15tyvxH0UwvnAZZ4a1JbMpUOF_fdI4DKr86-CxFptiESE0AIwLVawOgMx3-Gcyj3FPybNSHVsN&sai=AMfl-YTaV92UEMyFuCscNk2Vqe11vE-9Mfx8qnN7SFqMxBySpf_09Elp0VBUivOga9Jk5BJnPtcdVRU-o6IX2YatHnlYLzleWKdLovlE3tOpRtlv3kqZRNE4cJkROhFJTYd-Il0NGTxGqK4VHeHwjAJlPAX3bTiEPRAo3iEEN22EA4aiIS1XqeA5_KbDrb0d7WO0GkN3m12eozMY9cO_s8fF77r1OS6pe6qlFg0bFdor3zJKk1nUwAkQntU5Co7G0SyFMP_7fxZObYO6mVQE81Ffr8KPkYOxucKhNCziFcEn5DGQG6v4rcBLXL6lDEcAp06YdERpUXjbBs5pKZCC8nGoCQiGExN3nrOJUwv-ncdO5UQUv_8SjOrdAnuLVaRdt6RuZswCWCdk9SgIrsau8XWsW9L-5pm9QPWTc9nY5w&sig=Cg0ArKJSzAzcVCMMh_cE&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://go.getproton.me/aff_c%3Foffer_id%3D25%26aff_id%3D1156%26url_id%3D826
+  - generic [ref=e121]:
+    - heading "Features" [level=2] [ref=e123]
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - link "An illustration of a person wearing a pin displaying a screen on the user's hand." [ref=e126] [cursor=pointer]:
+          - /url: /article/ai-gadgets-2025-predictions
+          - img "An illustration of a person wearing a pin displaying a screen on the user's hand." [ref=e127]
+        - link "What to expect from AI gadgets in 2025" [ref=e128] [cursor=pointer]:
+          - /url: /article/ai-gadgets-2025-predictions
+      - generic [ref=e129]:
+        - link "An illustration of a person running on a treadmill." [ref=e130] [cursor=pointer]:
+          - /url: /article/ai-era-sparked-by-gamification
+          - img "An illustration of a person running on a treadmill." [ref=e131]
+        - link "How gamification sparked the AI era in tech" [ref=e132] [cursor=pointer]:
+          - /url: /article/ai-era-sparked-by-gamification
+      - generic [ref=e133]:
+        - link "Illustration of one person showing another person the screen on their phone." [ref=e134] [cursor=pointer]:
+          - /url: /article/ai-comedy
+          - img "Illustration of one person showing another person the screen on their phone." [ref=e135]
+        - link "Why being funny is AI's toughest test" [ref=e136] [cursor=pointer]:
+          - /url: /article/ai-comedy
+      - generic [ref=e137]:
+        - link "A woman looking at a procjected screen with apps on it." [ref=e138] [cursor=pointer]:
+          - /url: /article/5-fun-ai-products-2024
+          - img "A woman looking at a procjected screen with apps on it." [ref=e139]
+        - link "5 most fun AI products in 2024 so far" [ref=e140] [cursor=pointer]:
+          - /url: /article/5-fun-ai-products-2024
+      - generic [ref=e141]:
+        - link "An illustration of a person lying on a floor looking at a screen." [ref=e142] [cursor=pointer]:
+          - /url: /article/ai-chatbot-companion
+          - img "An illustration of a person lying on a floor looking at a screen." [ref=e143]
+        - link "AI chatbots are being used for companionship. What to know before you try it" [ref=e144] [cursor=pointer]:
+          - /url: /article/ai-chatbot-companion
+  - complementary [ref=e145]:
+    - iframe [ref=e148]:
+      - link [ref=f286e2] [cursor=pointer]:
+        - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjstT1B_DlhSYgMve8GCPt4YXjsu5TrOmtgEeHQn5T6hCv4yxw-xeLmrPhGI0caH71RbExfLj7OCGR6KhRMCqlaxFmiiqpYkU-lc7gWRL5ZgpKIiUyb3vZtnuZjU2F0x6qJi0MdqWfm5gG8nY0Qkhz-1-8eNsbfawr6tURKObT4I-4GDUEGe7yYqUgeLMzNxK1hNlklXFaYzLGGLOBJpVjZeaClwYDZ52Yc8tVj5ENAgmVUAHPxORGFC3CfmxYodg_uAyjopzh-I1-QAS5bhZrT4SdG91sRCRHbpbesQzrQsxipCM3rQtMwFLEVvCpoeDFtplxdPGPqsRGvcSVYfXDcdjdQFn7HYs24_oewL03ztqt6AidA9bVNibHcmHBXoOV-ooDxY9bQSa8HANEflNtDkeFa9XtT0IqDvwM8GUBApzgnnTP1C6yggTVRM&sai=AMfl-YQBy57c7Sdg5AHdNSpr1Fw0pSnR20_KOusFfcvRwnZH_wwOaDB4aGjWa0XaNi0Iu2Nylv3N0f6zMTZPfODCKE-PvyVFxbBiHu_YE9VaXvX5aQYkePMuMV8RqcVzyBg-075Pr2utUq727hCIwvRy_6EaJNpPbNMKh_NYUyZJcz3QUPFcJQv2AGmvY8Bby4gGB7zU2g9deK27UeSEnti3Eaf46lDF0R1A5e3inNg3BgtwJwRcD7kJS-R7ofOBopVIyNrpm90JfqpVLutdXTtArA6itDnc4i0PRO8lUATp_wTATD06WDirFWd7w4-Bwdg0Q7J7wCaAILwh8pCHDrKufJ7H3SIlIPk4laDbfMXQ6q_tEo1DWPy11WQAn8ZqevC3bO4frAsWzI0LNW7ojMExhh33HK8GzxviaVLjug&sig=Cg0ArKJSzOXX8ji3tgHM&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://go.getproton.me/aff_c%3Foffer_id%3D25%26aff_id%3D1156%26url_id%3D826
+  - main [ref=e149]:
+    - generic [ref=e152]:
+      - separator [ref=e153]
+      - generic [ref=e154]: More AI at Play
+      - generic [ref=e155]:
+        - generic [ref=e157]:
+          - generic [ref=e158]:
+            - link "Why AI assistants are having such a moment" [ref=e159] [cursor=pointer]:
+              - /url: /article/why-ai-assistants-the-next-big-thing
+            - generic [ref=e160]: No flying cars, just a lot of AI helpers.
+            - generic [ref=e161]:
+              - time [ref=e162]: 06/18/2024
+              - generic [ref=e163]:
+                - text: By
+                - link "Chase DiBenedetto" [ref=e164] [cursor=pointer]:
+                  - /url: /author/chase-dibenedetto
+          - link "An illustration of a person doing yoga while mirroring a digital display." [ref=e165] [cursor=pointer]:
+            - /url: /article/why-ai-assistants-the-next-big-thing
+            - img "An illustration of a person doing yoga while mirroring a digital display." [ref=e167]
+        - generic [ref=e169]:
+          - generic [ref=e170]:
+            - link "4 AI travel concierge services that'll help plan your next vacation" [ref=e171] [cursor=pointer]:
+              - /url: /article/4-ai-travel-concierge-for-your-next-vacation
+            - generic [ref=e172]: Try offloading some of your vacation stress with these.
+            - generic [ref=e173]:
+              - time [ref=e174]: 06/18/2024
+              - generic [ref=e175]:
+                - text: By
+                - link "Chance Townsend" [ref=e176] [cursor=pointer]:
+                  - /url: /author/chance-townsend
+          - link "An illustration of a man sitting on bench looking at a screen." [ref=e177] [cursor=pointer]:
+            - /url: /article/4-ai-travel-concierge-for-your-next-vacation
+            - img "An illustration of a man sitting on bench looking at a screen." [ref=e179]
+    - text: ADVERTISEMENT
+  - generic [ref=e180]:
+    - generic [ref=e181]:
+      - generic [ref=e182]: The biggest stories of the day delivered to your inbox.
+      - generic [ref=e184]:
+        - textbox "Email" [ref=e185]:
+          - /placeholder: Enter Email
+        - button "Sign Me Up" [disabled] [ref=e186]
+        - textbox [ref=e187]: "1"
+    - generic [ref=e188]:
+      - text: These newsletters may contain advertising, deals, or affiliate links. By clicking Subscribe, you confirm you are 16+ and agree to our
+      - link "Terms of Use" [ref=e189] [cursor=pointer]:
+        - /url: https://www.ziffdavis.com/terms-of-use
+      - text: and
+      - link "Privacy Policy" [ref=e190] [cursor=pointer]:
+        - /url: https://www.ziffdavis.com/ztg-privacy-policy
+      - text: .
+  - contentinfo [ref=e191]:
+    - generic [ref=e192]:
+      - generic [ref=e193]:
+        - img [ref=e194]
+        - img [ref=e196]
+      - generic [ref=e198]:
+        - list [ref=e199]:
+          - listitem [ref=e200]:
+            - link "TECH" [ref=e202] [cursor=pointer]:
+              - /url: https://mashable.com/tech
+            - generic [ref=e203]:
+              - link "Android" [ref=e204] [cursor=pointer]:
+                - /url: https://mashable.com/category/android
+              - link "Antivirus" [ref=e205] [cursor=pointer]:
+                - /url: https://mashable.com/category/antivirus
+              - link "Apple" [ref=e206] [cursor=pointer]:
+                - /url: https://mashable.com/category/apple
+              - link "Artificial Intelligence" [ref=e207] [cursor=pointer]:
+                - /url: https://mashable.com/category/artificial-intelligence
+              - link "Cameras" [ref=e208] [cursor=pointer]:
+                - /url: https://mashable.com/category/cameras
+              - link "Creative Software" [ref=e209] [cursor=pointer]:
+                - /url: https://mashable.com/category/creative-software
+              - link "Cryptocurrency" [ref=e210] [cursor=pointer]:
+                - /url: https://mashable.com/category/cryptocurrency
+              - link "Desktops" [ref=e211] [cursor=pointer]:
+                - /url: https://mashable.com/category/desktops
+              - link "Gaming Consoles" [ref=e212] [cursor=pointer]:
+                - /url: https://mashable.com/category/gaming-consoles
+              - link "Headphones" [ref=e213] [cursor=pointer]:
+                - /url: https://mashable.com/category/headphones
+              - link "Laptops" [ref=e214] [cursor=pointer]:
+                - /url: https://mashable.com/category/laptops
+              - link "Microsoft" [ref=e215] [cursor=pointer]:
+                - /url: https://mashable.com/category/microsoft
+              - link "Mobile" [ref=e216] [cursor=pointer]:
+                - /url: https://mashable.com/category/mobile
+              - link "Productivity" [ref=e217] [cursor=pointer]:
+                - /url: https://mashable.com/category/productivity
+              - link "Smart Home" [ref=e218] [cursor=pointer]:
+                - /url: https://mashable.com/category/smart-home
+              - link "Social Media" [ref=e219] [cursor=pointer]:
+                - /url: https://mashable.com/category/social-media
+              - link "Speakers" [ref=e220] [cursor=pointer]:
+                - /url: https://mashable.com/category/speakers
+              - link "Tablets" [ref=e221] [cursor=pointer]:
+                - /url: https://mashable.com/category/tablets
+              - link "Tech Industry" [ref=e222] [cursor=pointer]:
+                - /url: https://mashable.com/category/tech-industry
+              - link "TikTok" [ref=e223] [cursor=pointer]:
+                - /url: https://mashable.com/category/tiktok
+              - link "Transportation" [ref=e224] [cursor=pointer]:
+                - /url: https://mashable.com/category/transportation
+              - link "TVs" [ref=e225] [cursor=pointer]:
+                - /url: https://mashable.com/category/tvs
+              - link "VPN" [ref=e226] [cursor=pointer]:
+                - /url: https://mashable.com/category/vpn
+              - link "Wifi/Routers" [ref=e227] [cursor=pointer]:
+                - /url: https://mashable.com/category/wifirouters
+          - listitem [ref=e228]:
+            - generic [ref=e229]:
+              - link "SCIENCE" [ref=e231] [cursor=pointer]:
+                - /url: https://mashable.com/science
+              - generic [ref=e232]:
+                - link "Animals" [ref=e233] [cursor=pointer]:
+                  - /url: https://mashable.com/category/animals
+                - link "Climate Change" [ref=e234] [cursor=pointer]:
+                  - /url: https://mashable.com/category/climate-change
+                - link "Environment" [ref=e235] [cursor=pointer]:
+                  - /url: https://mashable.com/category/environment
+                - link "NASA" [ref=e236] [cursor=pointer]:
+                  - /url: https://mashable.com/category/nasa
+                - link "Rocket Launches" [ref=e237] [cursor=pointer]:
+                  - /url: https://mashable.com/category/rocket-launches
+                - link "Space" [ref=e238] [cursor=pointer]:
+                  - /url: https://mashable.com/category/space
+            - generic [ref=e239]:
+              - link "GAMES" [ref=e241] [cursor=pointer]:
+                - /url: https://games.mashable.com/
+              - generic [ref=e242]:
+                - link "Arcade" [ref=e243] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/arcade
+                - link "Card" [ref=e244] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/card
+                - link "Casino" [ref=e245] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/casino
+                - link "Connections" [ref=e246] [cursor=pointer]:
+                  - /url: https://mashable.com/category/connections
+                - link "Daily" [ref=e247] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/daily
+                - link "Puzzles" [ref=e248] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/puzzles
+                - link "Strands" [ref=e249] [cursor=pointer]:
+                  - /url: https://mashable.com/category/strands
+                - link "Word" [ref=e250] [cursor=pointer]:
+                  - /url: https://games.mashable.com/category/word
+                - link "Wordle" [ref=e251] [cursor=pointer]:
+                  - /url: https://mashable.com/category/wordle
+            - link "SOCIAL GOOD" [ref=e253] [cursor=pointer]:
+              - /url: https://mashable.com/category/social-good
+            - generic [ref=e254]:
+              - link "DEALS" [ref=e256] [cursor=pointer]:
+                - /url: https://mashable.com/deals
+              - link "How we Select Deals" [ref=e258] [cursor=pointer]:
+                - /url: https://mashable.com/about/deals-coverage-explained
+          - listitem [ref=e259]:
+            - generic [ref=e260]:
+              - link "ENTERTAINMENT" [ref=e262] [cursor=pointer]:
+                - /url: https://mashable.com/entertainment
+              - generic [ref=e263]:
+                - link "DC Comics" [ref=e264] [cursor=pointer]:
+                  - /url: https://mashable.com/category/dc-comics
+                - link "Disney" [ref=e265] [cursor=pointer]:
+                  - /url: https://mashable.com/category/disney
+                - link "HBO" [ref=e266] [cursor=pointer]:
+                  - /url: https://mashable.com/category/hbo
+                - link "Hulu" [ref=e267] [cursor=pointer]:
+                  - /url: https://mashable.com/category/hulu
+                - link "Marvel" [ref=e268] [cursor=pointer]:
+                  - /url: https://mashable.com/category/marvel
+                - link "Movies" [ref=e269] [cursor=pointer]:
+                  - /url: https://mashable.com/category/movies
+                - link "Music" [ref=e270] [cursor=pointer]:
+                  - /url: https://mashable.com/category/music
+                - link "Peacock" [ref=e271] [cursor=pointer]:
+                  - /url: https://mashable.com/category/peacock
+                - link "Pixar" [ref=e272] [cursor=pointer]:
+                  - /url: https://mashable.com/category/pixar
+                - link "Podcasts" [ref=e273] [cursor=pointer]:
+                  - /url: https://mashable.com/category/podcasts
+                - link "Streaming" [ref=e274] [cursor=pointer]:
+                  - /url: https://mashable.com/category/streaming
+                - link "TV Shows" [ref=e275] [cursor=pointer]:
+                  - /url: https://mashable.com/category/tv-shows
+                - link "True Crime" [ref=e276] [cursor=pointer]:
+                  - /url: https://mashable.com/category/true-crime
+            - generic [ref=e277]:
+              - link "LIFE" [ref=e279] [cursor=pointer]:
+                - /url: https://mashable.com/life
+              - generic [ref=e280]:
+                - link "Careers" [ref=e281] [cursor=pointer]:
+                  - /url: https://mashable.com/category/careers
+                - link "Digital Culture" [ref=e282] [cursor=pointer]:
+                  - /url: https://mashable.com/category/digital-culture
+                - link "Education" [ref=e283] [cursor=pointer]:
+                  - /url: https://mashable.com/category/education
+                - link "Family & Parenting" [ref=e284] [cursor=pointer]:
+                  - /url: https://mashable.com/category/family-parenting
+                - link "Health & Wellness" [ref=e285] [cursor=pointer]:
+                  - /url: https://mashable.com/category/health-wellness
+                - link "House & Home" [ref=e286] [cursor=pointer]:
+                  - /url: https://mashable.com/category/house-home
+                - link "Mental Health" [ref=e287] [cursor=pointer]:
+                  - /url: https://mashable.com/category/mental-health
+                - link "Sex, Dating & Relationships" [ref=e288] [cursor=pointer]:
+                  - /url: https://mashable.com/category/sex-dating-relationships
+                - link "Sleep" [ref=e289] [cursor=pointer]:
+                  - /url: https://mashable.com/category/sleep
+          - listitem [ref=e290]:
+            - generic [ref=e291]:
+              - link "SHOP THE BEST" [ref=e293] [cursor=pointer]:
+                - /url: https://mashable.com/roundups
+              - generic [ref=e294]:
+                - link "All Beauty" [ref=e295] [cursor=pointer]:
+                  - /url: https://mashable.com/category/beauty
+                - link "All Earbuds" [ref=e296] [cursor=pointer]:
+                  - /url: https://mashable.com/category/earbuds
+                - link "All Kitchen" [ref=e297] [cursor=pointer]:
+                  - /url: https://mashable.com/category/kitchen
+                - link "All Robot Vacuums" [ref=e298] [cursor=pointer]:
+                  - /url: https://mashable.com/category/robot-vacuums
+                - link "Bluetooth Speakers" [ref=e299] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-bluetooth-speakers
+                - link "Budget Laptops" [ref=e300] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-cheap-laptops
+                - link "Dating Apps" [ref=e301] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-dating-apps
+                - link "E-Readers" [ref=e302] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-e-readers
+                - link "Gift Guides" [ref=e303] [cursor=pointer]:
+                  - /url: https://mashable.com/gifts
+                - link "Headphones" [ref=e304] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-noise-cancelling-headphones
+                - link "Hookup Apps" [ref=e305] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-hookup-apps
+                - link "iPads" [ref=e306] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-ipads
+                - link "Kindles" [ref=e307] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-kindles
+                - link "Laptops" [ref=e308] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-laptops
+                - link "Mashable Choice" [ref=e309] [cursor=pointer]:
+                  - /url: https://mashable.com/mashable-choice
+                - link "Mashable Selects" [ref=e310] [cursor=pointer]:
+                  - /url: https://mashable.com/category/mashable-selects
+                - link "Speakers" [ref=e311] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-portable-bluetooth-speakers
+                - link "Sexting Apps" [ref=e312] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-sexting-apps
+                - link "Macbooks" [ref=e313] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/the-best-macbooks
+                - link "Robot Vaccuums" [ref=e314] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-robot-vacuums
+                - link "Robot Vaccum & Mop" [ref=e315] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-robot-vacuum-and-mop
+                - link "VPNs" [ref=e316] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/best-vpns
+                - link "Windows Laptops" [ref=e317] [cursor=pointer]:
+                  - /url: https://mashable.com/roundup/the-best-windows-laptops
+          - listitem [ref=e318]:
+            - generic [ref=e319]:
+              - link "REVIEWS" [ref=e321] [cursor=pointer]:
+                - /url: https://mashable.com/review
+              - generic [ref=e322]:
+                - link "Adult Friend Finder" [ref=e323] [cursor=pointer]:
+                  - /url: https://mashable.com/review/adult-friend-finder-review-dating-site
+                - link "Bumble Premium" [ref=e324] [cursor=pointer]:
+                  - /url: https://mashable.com/review/bumble-premium-review
+                - link "Kindle Paperwhite" [ref=e325] [cursor=pointer]:
+                  - /url: https://mashable.com/review/kindle-paperwhite-signature-edition
+                - link "PS5 vs PS5 Slim" [ref=e326] [cursor=pointer]:
+                  - /url: https://mashable.com/article/ps5-vs-ps5-slim-differences
+                - link "Tinder Platinum" [ref=e327] [cursor=pointer]:
+                  - /url: https://mashable.com/review/tinder-platinum-review
+            - generic [ref=e328]:
+              - link "EVENTS" [ref=e330] [cursor=pointer]:
+                - /url: ""
+              - generic [ref=e331]:
+                - link "Black Friday" [ref=e332] [cursor=pointer]:
+                  - /url: https://mashable.com/category/black-friday
+                - link "CES" [ref=e333] [cursor=pointer]:
+                  - /url: https://mashable.com/category/ces
+                - link "Cyber Monday" [ref=e334] [cursor=pointer]:
+                  - /url: https://mashable.com/category/cyber-monday
+                - link "Prime Day" [ref=e335] [cursor=pointer]:
+                  - /url: https://mashable.com/category/prime-day
+                - link "Samsung Galaxy Unpacked" [ref=e336] [cursor=pointer]:
+                  - /url: https://mashable.com/category/samsung-unpacked
+                - link "WWDC" [ref=e337] [cursor=pointer]:
+                  - /url: https://mashable.com/category/wwdc
+            - link "VIDEOS" [ref=e339] [cursor=pointer]:
+              - /url: https://mashable.com/videos
+        - separator [ref=e340]
+        - list [ref=e341]:
+          - listitem [ref=e342]:
+            - link "About Mashable" [ref=e343] [cursor=pointer]:
+              - /url: https://mashable.com/about/mashable-staff-masthead
+          - listitem [ref=e344]:
+            - link "Editorial Standards" [ref=e345] [cursor=pointer]:
+              - /url: https://mashable.com/about/editorial-standards
+          - listitem [ref=e346]:
+            - link "Contact Us" [ref=e347] [cursor=pointer]:
+              - /url: https://mashable.com/about/contact-us
+          - listitem [ref=e348]:
+            - link "We're Hiring" [ref=e349] [cursor=pointer]:
+              - /url: https://www.j2global.com/careers/jobs/?brand=Mashable
+          - listitem [ref=e350]:
+            - link "Newsletters" [ref=e351] [cursor=pointer]:
+              - /url: https://mashable.com/newsletters
+          - listitem [ref=e352]:
+            - link "Sitemap" [ref=e353] [cursor=pointer]:
+              - /url: https://mashable.com/sitemap
+        - list [ref=e354]:
+          - listitem [ref=e355]:
+            - link "Mashable Facebook Page" [ref=e356] [cursor=pointer]:
+              - /url: https://www.facebook.com/mashable/
+              - img [ref=e357]
+          - listitem [ref=e359]:
+            - link "Mashable Twitter Page" [ref=e360] [cursor=pointer]:
+              - /url: https://twitter.com/mashable
+              - img [ref=e361]
+          - listitem [ref=e363]:
+            - link "Mashable Instagram Page" [ref=e364] [cursor=pointer]:
+              - /url: http://instagram.com/Mashable
+              - img [ref=e365]
+          - listitem [ref=e367]:
+            - link "Mashable Youtube Page" [ref=e368] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/mashable
+              - img [ref=e369]
+          - listitem [ref=e371]:
+            - link "Mashable Pinterest Page" [ref=e372] [cursor=pointer]:
+              - /url: https://www.pinterest.com/mashable/
+              - img [ref=e373]
+          - listitem [ref=e375]:
+            - link "Mashable Tiktok Page" [ref=e376] [cursor=pointer]:
+              - /url: " https://www.tiktok.com/@mashable"
+              - img [ref=e377]
+          - listitem [ref=e379]:
+            - link "Mashable Flipboard Page" [ref=e380] [cursor=pointer]:
+              - /url: https://flipboard.com/@Mashable
+              - img [ref=e381]
+          - listitem [ref=e383]:
+            - link "Mashable Linkedin Page" [ref=e384] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/mashable
+              - img [ref=e385]
+          - listitem [ref=e387]:
+            - link "Mashable Feeds Page" [ref=e388] [cursor=pointer]:
+              - /url: https://mashable.com/feeds/rss/all
+              - img [ref=e389]
+        - separator [ref=e391]
+        - generic [ref=e392]:
+          - link "Ziff Davis" [ref=e394] [cursor=pointer]:
+            - /url: https://www.ziffdavis.com/
+            - img [ref=e395]
+          - separator [ref=e415]
+          - generic [ref=e416]:
+            - link "CNET" [ref=e418] [cursor=pointer]:
+              - /url: https://www.cnet.com/
+              - img [ref=e419]
+            - link "ZDNet" [ref=e425] [cursor=pointer]:
+              - /url: https://www.zdnet.com/
+              - img [ref=e426]
+            - link "PCMag" [ref=e433] [cursor=pointer]:
+              - /url: https://www.pcmag.com/
+              - img [ref=e434]
+            - link "Lifehacker" [ref=e442] [cursor=pointer]:
+              - /url: https://www.lifehacker.com/
+              - img [ref=e443]
+            - link "AskMen" [ref=e450] [cursor=pointer]:
+              - /url: https://www.askmen.com/
+              - img [ref=e451]
+            - link "Extreme Tech" [ref=e461] [cursor=pointer]:
+              - /url: https://www.extremetech.com/
+              - img [ref=e462]
+            - link "IGN" [ref=e468] [cursor=pointer]:
+              - /url: https://www.ign.com/
+              - img [ref=e469]
+            - link "Speed Test" [ref=e481] [cursor=pointer]:
+              - /url: https://www.speedtest.net/
+              - img [ref=e482]
+        - separator [ref=e496]
+        - generic [ref=e497]: ©2005–2026 Mashable, Inc., a Ziff Davis company. All Rights Reserved.
+        - generic [ref=e498]: Mashable is a registered trademark of Ziff Davis and may not be used by third parties without express written permission.
+        - list [ref=e499]:
+          - listitem [ref=e500]:
+            - link "About Ziff Davis" [ref=e501] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/about
+          - listitem [ref=e502]:
+            - link "Privacy Policy" [ref=e503] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/ztg-privacy-policy
+          - listitem [ref=e504]:
+            - link "Terms of Use" [ref=e505] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/terms-of-use
+          - listitem [ref=e506]:
+            - link "Advertise" [ref=e507] [cursor=pointer]:
+              - /url: https://ziffmedia.com/
+          - listitem [ref=e508]:
+            - link "Accessibility" [ref=e509] [cursor=pointer]:
+              - /url: https://www.ziffdavis.com/accessibility
+          - listitem [ref=e510]:
+            - link "Do Not Sell My Personal Information" [ref=e511] [cursor=pointer]:
+              - /url: https://dsar.mashable.com
+          - listitem [ref=e512]:
+            - button "ZiffDavis AdChoices AdChoices" [ref=e513] [cursor=pointer]:
+              - img "ZiffDavis AdChoices" [ref=e514]
+              - text: AdChoices
+          - listitem [ref=e515]:
+            - link "BBB Accredited Business Logo" [ref=e516] [cursor=pointer]:
+              - /url: https://www.bbb.org/us/ny/new-york/profile/digital-media/ziff-davis-llc-0121-531/#sealclick
+              - img [ref=e517]
+  - img [ref=e527] [cursor=pointer]
+  - img "Transparent audience pixel" [ref=e529]
+  - img "Transparent audience pixel" [ref=e530]
