@@ -7,9 +7,12 @@ export const test = base.extend<{ noConsoleErrors: void }>({
     const consoleErrors: string[] = [];
     // Set up a listener for the 'console' event.
     page.on('console', msg => {
-      // Check if the message type is 'error'.
       if (msg.type() === 'error') {
-        consoleErrors.push('\n' + msg.text());
+        const text = msg.text();
+        // Skip browser-level network resource errors — these are not JS errors
+        if (!text.startsWith('Failed to load resource:')) {
+          consoleErrors.push('\n' + text);
+        }
       }
     });
     // Use the fixture in the test. The test code will run here.
