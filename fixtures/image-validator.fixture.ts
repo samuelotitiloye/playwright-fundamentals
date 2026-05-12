@@ -21,7 +21,9 @@ export const test = base.extend<ImageFixture>({
                 const asboluteSrc = new URL(src, page.url()).href;
 
                 try {
-                    const response = await page.request.get(asboluteSrc);
+                    const response = await page.request.get(asboluteSrc, {
+                        headers: { 'Referer': page.url() },
+                    });
                     if (!response.ok()) {
                         brokenImages.push({
                             src: asboluteSrc,
