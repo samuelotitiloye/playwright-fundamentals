@@ -20,23 +20,15 @@ export const test = base.extend<ImageFixture>({
                 }
                 const absoluteSrc = new URL(src, page.url()).href;
 
-                try {
-                    const refererUrl = new URL(page.url());
-                    refererUrl.hash = '';
-                    const response = await page.request.get(absoluteSrc, {
-                        headers: { Referer: refererUrl.href }
-                    });
-                    if (!response.ok()) {
-                        brokenImages.push({
-                            src: absoluteSrc,
-                            status: `HTTP ${response.status()}`
-                        });
-                    }
-                } catch {
-                    brokenImages.push({
-                        src: absoluteSrc,
-                        status: 'Request failed'
-                    });
+                // Check via the browser's own render result — avoids triggering
+                // hotlink protection that blocks out-of-band fetch requests in CI.
+                const { complete, naturalWidth } = await img.evaluate((el: HTMLImageElement) => ({
+                    complete: el.complete,
+                    naturalWidth: el.naturalWidth,
+                }));
+
+                if (complete && naturalWidth === 0) {
+                    brokenImages.push({ src: absoluteSrc, status: 'Failed to render' });
                 }
             }
             const errorMessage = `Found ${brokenImages.length} broken images:\n${JSON.stringify(brokenImages, null, 2)}`;
