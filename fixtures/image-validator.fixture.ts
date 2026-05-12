@@ -20,15 +20,18 @@ export const test = base.extend<ImageFixture>({
                 }
                 const absoluteSrc = new URL(src, page.url()).href;
 
-                // Use the browser's own load result — naturalWidth === 0 means
-                // the image failed to render regardless of the reason (auth, CORS, etc.)
-                const isLoaded = await img.evaluate(
-                    (image) => (image as HTMLImageElement).naturalWidth > 0
-                );
-                if (!isLoaded) {
+                try {
+                    const response = await page.request.get(absoluteSrc);
+                    if (!response.ok()) {
+                        brokenImages.push({
+                            src: absoluteSrc,
+                            status: `HTTP ${response.status()}`
+                        });
+                    }
+                } catch {
                     brokenImages.push({
                         src: absoluteSrc,
-                        status: 'Failed to load (naturalWidth is 0)'
+                        status: 'Request failed'
                     });
                 }
             }
