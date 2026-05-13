@@ -1,7 +1,8 @@
 import { defineConfig, devices } from "@playwright/test";
 export default defineConfig({
-  testDir: './tests', // Directory where tests are located
+  testDir: './tests',
   fullyParallel: true,
+  reporter: [['html', { open: 'never' }]],
   projects: [
     {
       name: 'chromium',
