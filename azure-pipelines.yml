@@ -27,3 +27,34 @@ stages:
         dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
         tags: |
           $(tag)
+
+- stage: Test
+  displayName: Run Playwright Tests
+  dependsOn: Build
+  condition: succeeded()
+  jobs:
+  - job: PlaywrightTests
+    displayName: Playwright Tests
+    pool:
+      vmImage: ubuntu-latest
+    steps:
+
+    - checkout: self
+
+    - script: docker build -t playwright-tests .
+      displayName: 'Build Docker Image'
+
+    - script: |
+        docker run --rm \
+          -v "$(Build.SourcesDirectory)/playwright-report:/app/playwright-report" \
+          playwright-tests
+      displayName: 'Run Playwright Tests in Docker'
+      continueOnError: true
+
+    - task: PublishPipelineArtifact@1
+      displayName: 'Save Playwright Report as Artifact'
+      condition: succeededOrFailed()
+      inputs:
+        targetPath: '$(Build.SourcesDirectory)/playwright-report'
+        artifact: 'playwright-report'
+        publishLocation: 'pipeline'
