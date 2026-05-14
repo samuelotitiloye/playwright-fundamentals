@@ -1,6 +1,6 @@
 # Use an official base image (Node.js with browsers and dependencies)
 #It's recommended to pin to a specific version for reproducibility
-FROM mcr.microsoft.com/playwright:v1.59.1-noble
+FROM mcr.microsoft.com/playwright:v1.60.0-noble
 # Set the working directory inside the container
 WORKDIR /app
 # copy package.json and package-lock.json to install dependencies
